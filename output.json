@@ -1,0 +1,4095 @@
+{
+  "Info": {
+    "Code": "Success",
+    "Message": "Successful transaction",
+    "TransactionId": "3b94eb96-889a-4678-8e4b-617960e9e7aa",
+    "EngineVersion": "9.16.7.0",
+    "ApiVersion": "10.10.0.0",
+    "TotalElapsedMilliseconds": 1044,
+    "TransactionCost": 1.1,
+    "CustomerDetails": {
+      "AccountId": "39862522",
+      "Name": "Sona",
+      "IPAddress": "103.91.86.186",
+      "Region": "us-east-1",
+      "CreditsRemaining": 350.0,
+      "CreditsUsed": 148,
+      "ExpirationDate": "2024-02-11",
+      "MaximumConcurrentRequests": 2
+    }
+  },
+  "Value": {
+    "ParsingResponse": {
+      "Code": "Success",
+      "Message": "Successful transaction"
+    },
+    "ResumeData": {
+      "ContactInformation": {
+        "CandidateName": {
+          "FormattedName": "Uddhav Jadhav",
+          "GivenName": "Uddhav",
+          "FamilyName": "Jadhav"
+        },
+        "Telephones": [
+          {
+            "Raw": "+91 7507811167",
+            "Normalized": "+91 7507811167",
+            "InternationalCountryCode": "91",
+            "SubscriberNumber": "7507811167"
+          }
+        ],
+        "EmailAddresses": ["mejuddhav@gmail.com"],
+        "WebAddresses": [
+          {
+            "Address": "linkedin.com/in/uddhav-sj",
+            "Type": "LinkedIn"
+          },
+          {
+            "Address": "github.com/UddhavSJadhav",
+            "Type": "GitHub"
+          }
+        ]
+      },
+      "Education": {
+        "HighestDegree": {
+          "Name": {
+            "Raw": "Bachelor of Science in Information Technology",
+            "Normalized": "BSc"
+          },
+          "Type": "bachelors"
+        },
+        "EducationDetails": [
+          {
+            "Id": "DEG-1",
+            "Text": "Devgad College, Devgad - Mumbai University\tJune 2021\nBachelor of Science in Information Technology\tCGPA: 9.3/10.0",
+            "SchoolName": {
+              "Raw": "Devgad College, Devgad",
+              "Normalized": "Devgad College Devgad"
+            },
+            "SchoolType": "university",
+            "Location": {
+              "CountryCode": "IN",
+              "Regions": ["MAHARASHTRA"],
+              "Municipality": "Mumbai"
+            },
+            "Degree": {
+              "Name": {
+                "Raw": "Bachelor of Science in Information Technology",
+                "Normalized": "BSc"
+              },
+              "Type": "bachelors"
+            },
+            "Majors": ["Information Technology"],
+            "GPA": {
+              "Score": "9.3",
+              "ScoringSystem": "GPA",
+              "MaxScore": "10",
+              "MinimumScore": "0",
+              "NormalizedScore": 0.93
+            },
+            "LastEducationDate": {
+              "Date": "2021-06-01",
+              "IsCurrentDate": false,
+              "FoundYear": true,
+              "FoundMonth": true,
+              "FoundDay": false
+            },
+            "EndDate": {
+              "Date": "2021-06-01",
+              "IsCurrentDate": false,
+              "FoundYear": true,
+              "FoundMonth": true,
+              "FoundDay": false
+            }
+          }
+        ]
+      },
+      "EmploymentHistory": {
+        "ExperienceSummary": {
+          "Description": "Uddhav Jadhav's skills align with Programmers (Information and Communication Technology). Uddhav also has skills associated with Web Professionals (Information and Communication Technology). Uddhav Jadhav appears to be an entry-level candidate, with 16 months of experience.",
+          "MonthsOfWorkExperience": 16,
+          "MonthsOfManagementExperience": 0,
+          "ExecutiveType": "NONE",
+          "AverageMonthsPerEmployer": 8,
+          "FulltimeDirectHirePredictiveIndex": 1,
+          "ManagementStory": "",
+          "CurrentManagementLevel": "",
+          "ManagementScore": 0
+        },
+        "Positions": [
+          {
+            "Id": "POS-1",
+            "Employer": {
+              "Name": {
+                "Probability": "Confident",
+                "Raw": "Classified Ads",
+                "Normalized": "Classified Ads"
+              }
+            },
+            "IsSelfEmployed": false,
+            "IsCurrent": true,
+            "JobTitle": {
+              "Raw": "MERN Developer",
+              "Normalized": "MERN Developer",
+              "Probability": "Confident"
+            },
+            "StartDate": {
+              "Date": "2023-07-01",
+              "IsCurrentDate": false,
+              "FoundYear": true,
+              "FoundMonth": true,
+              "FoundDay": false
+            },
+            "EndDate": {
+              "Date": "2023-11-23",
+              "IsCurrentDate": true,
+              "FoundYear": true,
+              "FoundMonth": true,
+              "FoundDay": false
+            },
+            "JobType": "contract",
+            "JobLevel": "Entry Level",
+            "TaxonomyPercentage": 0,
+            "Description": "Converted a provided template for a web and admin application into dynamic and interactive React applications,\nseamlessly integrating APIs with TanStack Query to enhance functionality and data retrieval.\n•   Incorporated a credits system, geolocation integration, and search functionality. Added necessary new Models and HTTP functions to the project's Django backend with the assistance of ChatGPT.\n•   Improved and enhanced search functions by implementing TrigramSimilarity on the backend."
+          },
+          {
+            "Id": "POS-2",
+            "Employer": {
+              "Name": {
+                "Probability": "Probable",
+                "Raw": "NeonFlake",
+                "Normalized": "NeonFlake"
+              }
+            },
+            "IsSelfEmployed": false,
+            "IsCurrent": false,
+            "JobTitle": {
+              "Raw": "MERN Intern + Developer",
+              "Normalized": "MERN Intern AND Developer",
+              "Probability": "Confident"
+            },
+            "StartDate": {
+              "Date": "2022-08-01",
+              "IsCurrentDate": false,
+              "FoundYear": true,
+              "FoundMonth": true,
+              "FoundDay": false
+            },
+            "EndDate": {
+              "Date": "2023-07-01",
+              "IsCurrentDate": false,
+              "FoundYear": true,
+              "FoundMonth": true,
+              "FoundDay": false
+            },
+            "JobType": "internship",
+            "JobLevel": "Entry Level",
+            "TaxonomyPercentage": 0,
+            "Description": "Ecommerce Stores\n•   Developed a user-friendly Ecom/ERP dashboard in React, created scalable APIs in the Node backend, and seamlessly integrated them with the frontend.\n•   Integrated various third-party APIs, including Cloudinary for media storage, Razorpay for payment processing,\nSendInBlue for email services, and Google Recaptcha for spam protection, among others.\n•   Significantly enhanced backend-to-database performance, optimizing database queries by 5 times. Implemented\nadvanced querying techniques such as aggregate, session transaction, and insert/updateMany to achieve this\nimprovement.\nPharmaceutical website\n•   Created an accessible, responsive, and interactive user interface from Figma using React, Bootstrap, and CSS.\n•   Developed an admin panel and Node backend to manage content, links, images, and logos, and connected it to the frontend UI."
+          }
+        ]
+      },
+      "Skills": {
+        "Raw": [
+          {
+            "Name": "API",
+            "FoundIn": [
+              {
+                "SectionType": "PROJECT_HEADERS"
+              },
+              {
+                "SectionType": "WORK HISTORY"
+              }
+            ]
+          },
+          {
+            "Name": "APIs",
+            "FoundIn": [
+              {
+                "SectionType": "WORK HISTORY",
+                "Id": "POS-1"
+              },
+              {
+                "SectionType": "WORK HISTORY",
+                "Id": "POS-2"
+              }
+            ],
+            "MonthsExperience": {
+              "Value": 16
+            },
+            "LastUsed": {
+              "Value": "2023-11-23"
+            }
+          },
+          {
+            "Name": "backend",
+            "FoundIn": [
+              {
+                "SectionType": "PROJECT_HEADERS"
+              },
+              {
+                "SectionType": "SKILLS"
+              },
+              {
+                "SectionType": "WORK HISTORY",
+                "Id": "POS-1"
+              },
+              {
+                "SectionType": "WORK HISTORY",
+                "Id": "POS-2"
+              }
+            ],
+            "MonthsExperience": {
+              "Value": 16
+            },
+            "LastUsed": {
+              "Value": "2023-11-23"
+            }
+          },
+          {
+            "Name": "BOOTSTRAP",
+            "FoundIn": [
+              {
+                "SectionType": "PROJECT_HEADERS"
+              },
+              {
+                "SectionType": "SKILLS"
+              },
+              {
+                "SectionType": "WORK HISTORY",
+                "Id": "POS-2"
+              }
+            ],
+            "MonthsExperience": {
+              "Value": 11
+            },
+            "LastUsed": {
+              "Value": "2023-07-01"
+            }
+          },
+          {
+            "Name": "C#",
+            "FoundIn": [
+              {
+                "SectionType": "SKILLS"
+              }
+            ]
+          },
+          {
+            "Name": "C#/C",
+            "FoundIn": [
+              {
+                "SectionType": "SKILLS"
+              }
+            ]
+          },
+          {
+            "Name": "Classified Ads",
+            "FoundIn": [
+              {
+                "SectionType": "WORK HISTORY"
+              }
+            ]
+          },
+          {
+            "Name": "CRUD",
+            "FoundIn": [
+              {
+                "SectionType": "PROJECT_HEADERS"
+              },
+              {
+                "SectionType": "WORK HISTORY"
+              }
+            ]
+          },
+          {
+            "Name": "CSS",
+            "FoundIn": [
+              {
+                "SectionType": "SKILLS"
+              },
+              {
+                "SectionType": "WORK HISTORY",
+                "Id": "POS-2"
+              }
+            ],
+            "MonthsExperience": {
+              "Value": 11
+            },
+            "LastUsed": {
+              "Value": "2023-07-01"
+            }
+          },
+          {
+            "Name": "dashboard.",
+            "FoundIn": [
+              {
+                "SectionType": "PROJECT_HEADERS"
+              },
+              {
+                "SectionType": "WORK HISTORY",
+                "Id": "POS-2"
+              }
+            ],
+            "MonthsExperience": {
+              "Value": 11
+            },
+            "LastUsed": {
+              "Value": "2023-07-01"
+            }
+          },
+          {
+            "Name": "data retrieval.",
+            "FoundIn": [
+              {
+                "SectionType": "WORK HISTORY",
+                "Id": "POS-1"
+              }
+            ],
+            "MonthsExperience": {
+              "Value": 5
+            },
+            "LastUsed": {
+              "Value": "2023-11-23"
+            }
+          },
+          {
+            "Name": "database performance",
+            "FoundIn": [
+              {
+                "SectionType": "WORK HISTORY",
+                "Id": "POS-2"
+              }
+            ],
+            "MonthsExperience": {
+              "Value": 11
+            },
+            "LastUsed": {
+              "Value": "2023-07-01"
+            }
+          },
+          {
+            "Name": "database queries",
+            "FoundIn": [
+              {
+                "SectionType": "WORK HISTORY",
+                "Id": "POS-2"
+              }
+            ],
+            "MonthsExperience": {
+              "Value": 11
+            },
+            "LastUsed": {
+              "Value": "2023-07-01"
+            }
+          },
+          {
+            "Name": "Databases",
+            "FoundIn": [
+              {
+                "SectionType": "SKILLS"
+              }
+            ]
+          },
+          {
+            "Name": "Django",
+            "FoundIn": [
+              {
+                "SectionType": "WORK HISTORY",
+                "Id": "POS-1"
+              }
+            ],
+            "MonthsExperience": {
+              "Value": 5
+            },
+            "LastUsed": {
+              "Value": "2023-11-23"
+            }
+          },
+          {
+            "Name": "Docker",
+            "FoundIn": [
+              {
+                "SectionType": "SKILLS"
+              }
+            ]
+          },
+          {
+            "Name": "Ecommerce",
+            "FoundIn": [
+              {
+                "SectionType": "WORK HISTORY",
+                "Id": "POS-2"
+              }
+            ],
+            "MonthsExperience": {
+              "Value": 11
+            },
+            "LastUsed": {
+              "Value": "2023-07-01"
+            }
+          },
+          {
+            "Name": "ERP",
+            "FoundIn": [
+              {
+                "SectionType": "WORK HISTORY",
+                "Id": "POS-2"
+              }
+            ],
+            "MonthsExperience": {
+              "Value": 11
+            },
+            "LastUsed": {
+              "Value": "2023-07-01"
+            }
+          },
+          {
+            "Name": "Figma",
+            "FoundIn": [
+              {
+                "SectionType": "WORK HISTORY",
+                "Id": "POS-2"
+              }
+            ],
+            "MonthsExperience": {
+              "Value": 11
+            },
+            "LastUsed": {
+              "Value": "2023-07-01"
+            }
+          },
+          {
+            "Name": "Firebase",
+            "FoundIn": [
+              {
+                "SectionType": "SKILLS"
+              }
+            ]
+          },
+          {
+            "Name": "friendly",
+            "FoundIn": [
+              {
+                "SectionType": "WORK HISTORY",
+                "Id": "POS-2"
+              }
+            ],
+            "MonthsExperience": {
+              "Value": 11
+            },
+            "LastUsed": {
+              "Value": "2023-07-01"
+            }
+          },
+          {
+            "Name": "Frontend",
+            "FoundIn": [
+              {
+                "SectionType": "SKILLS"
+              },
+              {
+                "SectionType": "WORK HISTORY",
+                "Id": "POS-2"
+              }
+            ],
+            "MonthsExperience": {
+              "Value": 11
+            },
+            "LastUsed": {
+              "Value": "2023-07-01"
+            }
+          },
+          {
+            "Name": "geolocation",
+            "FoundIn": [
+              {
+                "SectionType": "WORK HISTORY",
+                "Id": "POS-1"
+              }
+            ],
+            "MonthsExperience": {
+              "Value": 5
+            },
+            "LastUsed": {
+              "Value": "2023-11-23"
+            }
+          },
+          {
+            "Name": "Git",
+            "FoundIn": [
+              {
+                "SectionType": "SKILLS"
+              }
+            ]
+          },
+          {
+            "Name": "Github",
+            "FoundIn": [
+              {
+                "SectionType": "SKILLS"
+              }
+            ]
+          },
+          {
+            "Name": "HTML",
+            "FoundIn": [
+              {
+                "SectionType": "SKILLS"
+              }
+            ]
+          },
+          {
+            "Name": "Information Technology",
+            "FoundIn": [
+              {
+                "SectionType": "EDUCATION"
+              }
+            ]
+          },
+          {
+            "Name": "Java",
+            "FoundIn": [
+              {
+                "SectionType": "SKILLS"
+              }
+            ]
+          },
+          {
+            "Name": "JavaScript",
+            "FoundIn": [
+              {
+                "SectionType": "SKILLS"
+              }
+            ]
+          },
+          {
+            "Name": "logos",
+            "FoundIn": [
+              {
+                "SectionType": "WORK HISTORY",
+                "Id": "POS-2"
+              }
+            ],
+            "MonthsExperience": {
+              "Value": 11
+            },
+            "LastUsed": {
+              "Value": "2023-07-01"
+            }
+          },
+          {
+            "Name": "manage content",
+            "FoundIn": [
+              {
+                "SectionType": "WORK HISTORY",
+                "Id": "POS-2"
+              }
+            ],
+            "MonthsExperience": {
+              "Value": 11
+            },
+            "LastUsed": {
+              "Value": "2023-07-01"
+            }
+          },
+          {
+            "Name": "MERN",
+            "FoundIn": [
+              {
+                "SectionType": "PROJECT_HEADERS"
+              },
+              {
+                "SectionType": "WORK HISTORY",
+                "Id": "POS-1"
+              },
+              {
+                "SectionType": "WORK HISTORY",
+                "Id": "POS-2"
+              }
+            ],
+            "MonthsExperience": {
+              "Value": 16
+            },
+            "LastUsed": {
+              "Value": "2023-11-23"
+            }
+          },
+          {
+            "Name": "MongoDB",
+            "FoundIn": [
+              {
+                "SectionType": "SKILLS"
+              }
+            ]
+          },
+          {
+            "Name": "MSSQL",
+            "FoundIn": [
+              {
+                "SectionType": "SKILLS"
+              }
+            ]
+          },
+          {
+            "Name": "MySQL",
+            "FoundIn": [
+              {
+                "SectionType": "SKILLS"
+              }
+            ]
+          },
+          {
+            "Name": "NEXT.JS",
+            "FoundIn": [
+              {
+                "SectionType": "PROJECT_HEADERS"
+              },
+              {
+                "SectionType": "WORK HISTORY"
+              }
+            ]
+          },
+          {
+            "Name": "Node",
+            "FoundIn": [
+              {
+                "SectionType": "SKILLS"
+              },
+              {
+                "SectionType": "WORK HISTORY",
+                "Id": "POS-2"
+              }
+            ],
+            "MonthsExperience": {
+              "Value": 11
+            },
+            "LastUsed": {
+              "Value": "2023-07-01"
+            }
+          },
+          {
+            "Name": "payment processing",
+            "FoundIn": [
+              {
+                "SectionType": "WORK HISTORY",
+                "Id": "POS-2"
+              }
+            ],
+            "MonthsExperience": {
+              "Value": 11
+            },
+            "LastUsed": {
+              "Value": "2023-07-01"
+            }
+          },
+          {
+            "Name": "Pharmaceutical",
+            "FoundIn": [
+              {
+                "SectionType": "WORK HISTORY",
+                "Id": "POS-2"
+              }
+            ],
+            "MonthsExperience": {
+              "Value": 11
+            },
+            "LastUsed": {
+              "Value": "2023-07-01"
+            }
+          },
+          {
+            "Name": "PHP",
+            "FoundIn": [
+              {
+                "SectionType": "SKILLS"
+              }
+            ]
+          },
+          {
+            "Name": "Programming Languages",
+            "FoundIn": [
+              {
+                "SectionType": "SKILLS"
+              }
+            ]
+          },
+          {
+            "Name": "Python",
+            "FoundIn": [
+              {
+                "SectionType": "SKILLS"
+              }
+            ]
+          },
+          {
+            "Name": "React",
+            "FoundIn": [
+              {
+                "SectionType": "SKILLS"
+              },
+              {
+                "SectionType": "WORK HISTORY",
+                "Id": "POS-1"
+              },
+              {
+                "SectionType": "WORK HISTORY",
+                "Id": "POS-2"
+              }
+            ],
+            "MonthsExperience": {
+              "Value": 16
+            },
+            "LastUsed": {
+              "Value": "2023-11-23"
+            }
+          },
+          {
+            "Name": "Redux",
+            "FoundIn": [
+              {
+                "SectionType": "SKILLS"
+              }
+            ]
+          },
+          {
+            "Name": "safety",
+            "FoundIn": [
+              {
+                "SectionType": "PROJECT_HEADERS"
+              },
+              {
+                "SectionType": "WORK HISTORY"
+              }
+            ]
+          },
+          {
+            "Name": "Sass",
+            "FoundIn": [
+              {
+                "SectionType": "SKILLS"
+              }
+            ]
+          },
+          {
+            "Name": "TAILWIND CSS",
+            "FoundIn": [
+              {
+                "SectionType": "PROJECT_HEADERS"
+              },
+              {
+                "SectionType": "SKILLS"
+              },
+              {
+                "SectionType": "WORK HISTORY"
+              }
+            ]
+          },
+          {
+            "Name": "TYPESCRIPT",
+            "FoundIn": [
+              {
+                "SectionType": "PROJECT_HEADERS"
+              },
+              {
+                "SectionType": "SKILLS"
+              },
+              {
+                "SectionType": "WORK HISTORY"
+              }
+            ]
+          },
+          {
+            "Name": "user interface",
+            "FoundIn": [
+              {
+                "SectionType": "WORK HISTORY",
+                "Id": "POS-2"
+              }
+            ],
+            "MonthsExperience": {
+              "Value": 11
+            },
+            "LastUsed": {
+              "Value": "2023-07-01"
+            }
+          }
+        ],
+        "Normalized": [
+          {
+            "Name": "Backend",
+            "Id": "KSFFZBDYXH5XA5QE4E7I",
+            "Type": "IT",
+            "FoundIn": [
+              {
+                "SectionType": "PROJECT_HEADERS"
+              },
+              {
+                "SectionType": "SKILLS"
+              },
+              {
+                "SectionType": "WORK HISTORY",
+                "Id": "POS-1"
+              },
+              {
+                "SectionType": "WORK HISTORY",
+                "Id": "POS-2"
+              }
+            ],
+            "MonthsExperience": {
+              "Value": 16
+            },
+            "LastUsed": {
+              "Value": "2023-11-23"
+            },
+            "RawSkills": ["backend"]
+          },
+          {
+            "Name": "Application Programming Interfaces (APIs)",
+            "Id": "KS1208P6ZMZ4N872Y7X5",
+            "Type": "IT",
+            "FoundIn": [
+              {
+                "SectionType": "PROJECT_HEADERS"
+              },
+              {
+                "SectionType": "WORK HISTORY",
+                "Id": "POS-1"
+              },
+              {
+                "SectionType": "WORK HISTORY",
+                "Id": "POS-2"
+              }
+            ],
+            "MonthsExperience": {
+              "Value": 16
+            },
+            "LastUsed": {
+              "Value": "2023-11-23"
+            },
+            "RawSkills": ["API", "APIs"]
+          },
+          {
+            "Name": "Mern",
+            "Id": "KS8Q1AFYYGNWP3DV7MC7",
+            "Type": "IT",
+            "FoundIn": [
+              {
+                "SectionType": "PROJECT_HEADERS"
+              },
+              {
+                "SectionType": "WORK HISTORY",
+                "Id": "POS-1"
+              },
+              {
+                "SectionType": "WORK HISTORY",
+                "Id": "POS-2"
+              }
+            ],
+            "MonthsExperience": {
+              "Value": 16
+            },
+            "LastUsed": {
+              "Value": "2023-11-23"
+            },
+            "RawSkills": ["MERN"]
+          },
+          {
+            "Name": "ReactJS",
+            "Id": "KS9E9SUSTX6U1ESK796U",
+            "Type": "IT",
+            "FoundIn": [
+              {
+                "SectionType": "SKILLS"
+              },
+              {
+                "SectionType": "WORK HISTORY",
+                "Id": "POS-1"
+              },
+              {
+                "SectionType": "WORK HISTORY",
+                "Id": "POS-2"
+              }
+            ],
+            "MonthsExperience": {
+              "Value": 16
+            },
+            "LastUsed": {
+              "Value": "2023-11-23"
+            },
+            "RawSkills": ["React"]
+          },
+          {
+            "Name": "Django Web Framework",
+            "Id": "KS1232D6PH6SBVWWPQWC",
+            "Type": "IT",
+            "FoundIn": [
+              {
+                "SectionType": "WORK HISTORY",
+                "Id": "POS-1"
+              }
+            ],
+            "MonthsExperience": {
+              "Value": 5
+            },
+            "LastUsed": {
+              "Value": "2023-11-23"
+            },
+            "RawSkills": ["Django"]
+          },
+          {
+            "Name": "Data Retrieval",
+            "Id": "KS122PY6ZRDL0TD5GSH4",
+            "Type": "IT",
+            "FoundIn": [
+              {
+                "SectionType": "WORK HISTORY",
+                "Id": "POS-1"
+              }
+            ],
+            "MonthsExperience": {
+              "Value": 5
+            },
+            "LastUsed": {
+              "Value": "2023-11-23"
+            },
+            "RawSkills": ["data retrieval."]
+          },
+          {
+            "Name": "Geolocation",
+            "Id": "KS1249K6TSSZ13YPLR48",
+            "Type": "Professional",
+            "FoundIn": [
+              {
+                "SectionType": "WORK HISTORY",
+                "Id": "POS-1"
+              }
+            ],
+            "MonthsExperience": {
+              "Value": 5
+            },
+            "LastUsed": {
+              "Value": "2023-11-23"
+            },
+            "RawSkills": ["geolocation"]
+          },
+          {
+            "Name": "Bootstrap (Software)",
+            "Id": "KS1214R5XG4X4PY7LGY6",
+            "Type": "IT",
+            "FoundIn": [
+              {
+                "SectionType": "PROJECT_HEADERS"
+              },
+              {
+                "SectionType": "SKILLS"
+              },
+              {
+                "SectionType": "WORK HISTORY",
+                "Id": "POS-2"
+              }
+            ],
+            "MonthsExperience": {
+              "Value": 11
+            },
+            "LastUsed": {
+              "Value": "2023-07-01"
+            },
+            "RawSkills": ["BOOTSTRAP"]
+          },
+          {
+            "Name": "Cascading Style Sheets (CSS)",
+            "Id": "KS121F45VPV8C9W3QFYH",
+            "Type": "IT",
+            "FoundIn": [
+              {
+                "SectionType": "SKILLS"
+              },
+              {
+                "SectionType": "WORK HISTORY",
+                "Id": "POS-2"
+              }
+            ],
+            "MonthsExperience": {
+              "Value": 11
+            },
+            "LastUsed": {
+              "Value": "2023-07-01"
+            },
+            "RawSkills": ["CSS"]
+          },
+          {
+            "Name": "Front End Software Development",
+            "Id": "KSQ4V3A6FGYT0MLOOUEX",
+            "Type": "IT",
+            "FoundIn": [
+              {
+                "SectionType": "SKILLS"
+              },
+              {
+                "SectionType": "WORK HISTORY",
+                "Id": "POS-2"
+              }
+            ],
+            "MonthsExperience": {
+              "Value": 11
+            },
+            "LastUsed": {
+              "Value": "2023-07-01"
+            },
+            "RawSkills": ["Frontend"]
+          },
+          {
+            "Name": "Node.Js",
+            "Id": "KS127296VDYS7ZFWVC46",
+            "Type": "IT",
+            "FoundIn": [
+              {
+                "SectionType": "SKILLS"
+              },
+              {
+                "SectionType": "WORK HISTORY",
+                "Id": "POS-2"
+              }
+            ],
+            "MonthsExperience": {
+              "Value": 11
+            },
+            "LastUsed": {
+              "Value": "2023-07-01"
+            },
+            "RawSkills": ["Node"]
+          },
+          {
+            "Name": "Dashboards",
+            "Id": "KS9IRHKOO7WVBIG35G80",
+            "Type": "Professional",
+            "FoundIn": [
+              {
+                "SectionType": "PROJECT_HEADERS"
+              },
+              {
+                "SectionType": "WORK HISTORY",
+                "Id": "POS-2"
+              }
+            ],
+            "MonthsExperience": {
+              "Value": 11
+            },
+            "LastUsed": {
+              "Value": "2023-07-01"
+            },
+            "RawSkills": ["dashboard."]
+          },
+          {
+            "Name": "Database Queries",
+            "Id": "KS122QR67M3DQDNP937T",
+            "Type": "IT",
+            "FoundIn": [
+              {
+                "SectionType": "WORK HISTORY",
+                "Id": "POS-2"
+              }
+            ],
+            "MonthsExperience": {
+              "Value": 11
+            },
+            "LastUsed": {
+              "Value": "2023-07-01"
+            },
+            "RawSkills": ["database queries"]
+          },
+          {
+            "Name": "Human-Computer Interaction",
+            "Id": "KS124R369VRR6LYPTKXK",
+            "Type": "IT",
+            "FoundIn": [
+              {
+                "SectionType": "WORK HISTORY",
+                "Id": "POS-2"
+              }
+            ],
+            "MonthsExperience": {
+              "Value": 11
+            },
+            "LastUsed": {
+              "Value": "2023-07-01"
+            },
+            "RawSkills": ["user interface"]
+          },
+          {
+            "Name": "Figma",
+            "Id": "KSNQCEX0FGMCVVVXQ0MD",
+            "Type": "IT",
+            "FoundIn": [
+              {
+                "SectionType": "WORK HISTORY",
+                "Id": "POS-2"
+              }
+            ],
+            "MonthsExperience": {
+              "Value": 11
+            },
+            "LastUsed": {
+              "Value": "2023-07-01"
+            },
+            "RawSkills": ["Figma"]
+          },
+          {
+            "Name": "Database Performance",
+            "Id": "KSDRW3VXX121JSHMDSJA",
+            "Type": "IT",
+            "FoundIn": [
+              {
+                "SectionType": "WORK HISTORY",
+                "Id": "POS-2"
+              }
+            ],
+            "MonthsExperience": {
+              "Value": 11
+            },
+            "LastUsed": {
+              "Value": "2023-07-01"
+            },
+            "RawSkills": ["database performance"]
+          },
+          {
+            "Name": "Enterprise Resource Planning",
+            "Id": "KS123KH77136Y0FWRNJY",
+            "Type": "Professional",
+            "FoundIn": [
+              {
+                "SectionType": "WORK HISTORY",
+                "Id": "POS-2"
+              }
+            ],
+            "MonthsExperience": {
+              "Value": 11
+            },
+            "LastUsed": {
+              "Value": "2023-07-01"
+            },
+            "RawSkills": ["ERP"]
+          },
+          {
+            "Name": "Content Management",
+            "Id": "KS122BM7899YNC6504SP",
+            "Type": "Professional",
+            "FoundIn": [
+              {
+                "SectionType": "WORK HISTORY",
+                "Id": "POS-2"
+              }
+            ],
+            "MonthsExperience": {
+              "Value": 11
+            },
+            "LastUsed": {
+              "Value": "2023-07-01"
+            },
+            "RawSkills": ["manage content"]
+          },
+          {
+            "Name": "E-Commerce",
+            "Id": "KS1238H659P08Z726BK8",
+            "Type": "Professional",
+            "FoundIn": [
+              {
+                "SectionType": "WORK HISTORY",
+                "Id": "POS-2"
+              }
+            ],
+            "MonthsExperience": {
+              "Value": 11
+            },
+            "LastUsed": {
+              "Value": "2023-07-01"
+            },
+            "RawSkills": ["Ecommerce"]
+          },
+          {
+            "Name": "Pharmaceuticals",
+            "Id": "KS127R26PVSGVL35D7L1",
+            "Type": "Professional",
+            "FoundIn": [
+              {
+                "SectionType": "WORK HISTORY",
+                "Id": "POS-2"
+              }
+            ],
+            "MonthsExperience": {
+              "Value": 11
+            },
+            "LastUsed": {
+              "Value": "2023-07-01"
+            },
+            "RawSkills": ["Pharmaceutical"]
+          },
+          {
+            "Name": "Logotypes",
+            "Id": "KS1225V6Y8RC3F5RJY8P",
+            "Type": "Professional",
+            "FoundIn": [
+              {
+                "SectionType": "WORK HISTORY",
+                "Id": "POS-2"
+              }
+            ],
+            "MonthsExperience": {
+              "Value": 11
+            },
+            "LastUsed": {
+              "Value": "2023-07-01"
+            },
+            "RawSkills": ["logos"]
+          },
+          {
+            "Name": "Processing of Payments",
+            "Id": "KSEP82V3PE2H1FUZP3HO",
+            "Type": "Professional",
+            "FoundIn": [
+              {
+                "SectionType": "WORK HISTORY",
+                "Id": "POS-2"
+              }
+            ],
+            "MonthsExperience": {
+              "Value": 11
+            },
+            "LastUsed": {
+              "Value": "2023-07-01"
+            },
+            "RawSkills": ["payment processing"]
+          },
+          {
+            "Name": "Friendliness",
+            "Id": "KS4DOAH8RJ88A8BZ4EY6",
+            "Type": "Soft",
+            "FoundIn": [
+              {
+                "SectionType": "WORK HISTORY",
+                "Id": "POS-2"
+              }
+            ],
+            "MonthsExperience": {
+              "Value": 11
+            },
+            "LastUsed": {
+              "Value": "2023-07-01"
+            },
+            "RawSkills": ["friendly"]
+          },
+          {
+            "Name": "Tailwind",
+            "Id": "KS8J4ATW5ATG3ZUTGVQ5",
+            "Type": "IT",
+            "FoundIn": [
+              {
+                "SectionType": "PROJECT_HEADERS"
+              },
+              {
+                "SectionType": "SKILLS"
+              },
+              {
+                "SectionType": "WORK HISTORY"
+              }
+            ],
+            "RawSkills": ["TAILWIND CSS"]
+          },
+          {
+            "Name": "TypeScript",
+            "Id": "KS441LF7187KS0CV4B6Y",
+            "Type": "IT",
+            "FoundIn": [
+              {
+                "SectionType": "PROJECT_HEADERS"
+              },
+              {
+                "SectionType": "SKILLS"
+              },
+              {
+                "SectionType": "WORK HISTORY"
+              }
+            ],
+            "RawSkills": ["TYPESCRIPT"]
+          },
+          {
+            "Name": "Crud",
+            "Id": "KSZX2KSAAHPJBCLO1HFE",
+            "Type": "IT",
+            "FoundIn": [
+              {
+                "SectionType": "PROJECT_HEADERS"
+              },
+              {
+                "SectionType": "WORK HISTORY"
+              }
+            ],
+            "RawSkills": ["CRUD"]
+          },
+          {
+            "Name": "Next.js",
+            "Id": "KS3VPP4UXQNR673OV5C7",
+            "Type": "IT",
+            "FoundIn": [
+              {
+                "SectionType": "PROJECT_HEADERS"
+              },
+              {
+                "SectionType": "WORK HISTORY"
+              }
+            ],
+            "RawSkills": ["NEXT.JS"]
+          },
+          {
+            "Name": "Safety Principles",
+            "Id": "KSU4G0EHN98X8QVP3OU5",
+            "Type": "Professional",
+            "FoundIn": [
+              {
+                "SectionType": "PROJECT_HEADERS"
+              },
+              {
+                "SectionType": "WORK HISTORY"
+              }
+            ],
+            "RawSkills": ["safety"]
+          },
+          {
+            "Name": "C Sharp (Programming Language)",
+            "Id": "KS1219N6Z3XQ19V0HSKR",
+            "Type": "IT",
+            "FoundIn": [
+              {
+                "SectionType": "SKILLS"
+              }
+            ],
+            "RawSkills": ["C#"]
+          },
+          {
+            "Name": "C++ (Programming Language)",
+            "Id": "KS1219W70LY1GXZDSKW5",
+            "Type": "IT",
+            "FoundIn": [
+              {
+                "SectionType": "SKILLS"
+              }
+            ],
+            "RawSkills": ["C#/C"]
+          },
+          {
+            "Name": "Databases",
+            "Id": "KS1227H6H5Q5Q3T2NQR5",
+            "Type": "IT",
+            "FoundIn": [
+              {
+                "SectionType": "SKILLS"
+              }
+            ],
+            "RawSkills": ["Databases"]
+          },
+          {
+            "Name": "Docker",
+            "Id": "KSY4WFI1S164RQUBSPCC",
+            "Type": "IT",
+            "FoundIn": [
+              {
+                "SectionType": "SKILLS"
+              }
+            ],
+            "RawSkills": ["Docker"]
+          },
+          {
+            "Name": "Firebase",
+            "Id": "KSEJ9O7MDIF29LQKLT2F",
+            "Type": "IT",
+            "FoundIn": [
+              {
+                "SectionType": "SKILLS"
+              }
+            ],
+            "RawSkills": ["Firebase"]
+          },
+          {
+            "Name": "Git",
+            "Id": "KSFXRX8RU2T0RXA7QPHJ",
+            "Type": "IT",
+            "FoundIn": [
+              {
+                "SectionType": "SKILLS"
+              }
+            ],
+            "RawSkills": ["Git"]
+          },
+          {
+            "Name": "Github",
+            "Id": "KS124CH623PFBJS8T5KM",
+            "Type": "IT",
+            "FoundIn": [
+              {
+                "SectionType": "SKILLS"
+              }
+            ],
+            "RawSkills": ["Github"]
+          },
+          {
+            "Name": "HTML",
+            "Id": "KS1200578T5QCYT0Z98G",
+            "Type": "IT",
+            "FoundIn": [
+              {
+                "SectionType": "SKILLS"
+              }
+            ],
+            "RawSkills": ["HTML"]
+          },
+          {
+            "Name": "Information Technology",
+            "Id": "KSJLPQMW0YRWJSWO4NFL",
+            "Type": "IT",
+            "FoundIn": [
+              {
+                "SectionType": "EDUCATION"
+              }
+            ],
+            "RawSkills": ["Information Technology"]
+          },
+          {
+            "Name": "Java (Programming Language)",
+            "Id": "KS120076FGP5WGWYMP0F",
+            "Type": "IT",
+            "FoundIn": [
+              {
+                "SectionType": "SKILLS"
+              }
+            ],
+            "RawSkills": ["Java"]
+          },
+          {
+            "Name": "JavaScript (Programming Language)",
+            "Id": "KS1200771D9CR9LB4MWW",
+            "Type": "IT",
+            "FoundIn": [
+              {
+                "SectionType": "SKILLS"
+              }
+            ],
+            "RawSkills": ["JavaScript"]
+          },
+          {
+            "Name": "Microsoft SQL Server",
+            "Id": "KS126JR6F5V2TRCLB1H5",
+            "Type": "IT",
+            "FoundIn": [
+              {
+                "SectionType": "SKILLS"
+              }
+            ],
+            "RawSkills": ["MSSQL"]
+          },
+          {
+            "Name": "MongoDB",
+            "Id": "KS126PF6PJY1N0ZX5R0P",
+            "Type": "IT",
+            "FoundIn": [
+              {
+                "SectionType": "SKILLS"
+              }
+            ],
+            "RawSkills": ["MongoDB"]
+          },
+          {
+            "Name": "MySQL",
+            "Id": "KS126QY605N7YVHFYCTW",
+            "Type": "IT",
+            "FoundIn": [
+              {
+                "SectionType": "SKILLS"
+              }
+            ],
+            "RawSkills": ["MySQL"]
+          },
+          {
+            "Name": "PHP (Programming Language)",
+            "Id": "KS1200C5XQWW78VQ5ZYL",
+            "Type": "IT",
+            "FoundIn": [
+              {
+                "SectionType": "SKILLS"
+              }
+            ],
+            "RawSkills": ["PHP"]
+          },
+          {
+            "Name": "Programming Languages",
+            "Id": "KSZUL40VYT2KEP9E6YPH",
+            "Type": "IT",
+            "FoundIn": [
+              {
+                "SectionType": "SKILLS"
+              }
+            ],
+            "RawSkills": ["Programming Languages"]
+          },
+          {
+            "Name": "Python (Programming Language)",
+            "Id": "KS125LS6N7WP4S6SFTCK",
+            "Type": "IT",
+            "FoundIn": [
+              {
+                "SectionType": "SKILLS"
+              }
+            ],
+            "RawSkills": ["Python"]
+          },
+          {
+            "Name": "React Redux",
+            "Id": "KSQOOX1S2DYD0E1VVZ5X",
+            "Type": "IT",
+            "FoundIn": [
+              {
+                "SectionType": "SKILLS"
+              }
+            ],
+            "RawSkills": ["Redux"]
+          },
+          {
+            "Name": "Syntactically Awesome Style Sheets (SASS)",
+            "Id": "KSHAT7C41615LE1RC2U1",
+            "Type": "IT",
+            "FoundIn": [
+              {
+                "SectionType": "SKILLS"
+              }
+            ],
+            "RawSkills": ["Sass"]
+          },
+          {
+            "Name": "Knowledge of Advertising",
+            "Id": "KS1208X6P4TZKZYJMTG8",
+            "Type": "Professional",
+            "FoundIn": [
+              {
+                "SectionType": "WORK HISTORY"
+              }
+            ],
+            "RawSkills": ["Classified Ads"]
+          }
+        ],
+        "RelatedProfessionClasses": [
+          {
+            "Name": "Information and Communication Technology",
+            "Id": "9",
+            "Percent": 74,
+            "Groups": [
+              {
+                "Name": "Programmers",
+                "Id": "82",
+                "Percent": 30,
+                "NormalizedSkills": [
+                  "KS1208P6ZMZ4N872Y7X5",
+                  "KSFFZBDYXH5XA5QE4E7I",
+                  "KS1214R5XG4X4PY7LGY6",
+                  "KS1219N6Z3XQ19V0HSKR",
+                  "KS1219W70LY1GXZDSKW5",
+                  "KS121F45VPV8C9W3QFYH",
+                  "KSZX2KSAAHPJBCLO1HFE",
+                  "KS122QR67M3DQDNP937T",
+                  "KS1227H6H5Q5Q3T2NQR5",
+                  "KS1232D6PH6SBVWWPQWC",
+                  "KSY4WFI1S164RQUBSPCC",
+                  "KSEJ9O7MDIF29LQKLT2F",
+                  "KSQ4V3A6FGYT0MLOOUEX",
+                  "KSFXRX8RU2T0RXA7QPHJ",
+                  "KS124CH623PFBJS8T5KM",
+                  "KS1200578T5QCYT0Z98G",
+                  "KS124R369VRR6LYPTKXK",
+                  "KSJLPQMW0YRWJSWO4NFL",
+                  "KS120076FGP5WGWYMP0F",
+                  "KS1200771D9CR9LB4MWW",
+                  "KS8Q1AFYYGNWP3DV7MC7",
+                  "KS126JR6F5V2TRCLB1H5",
+                  "KS126PF6PJY1N0ZX5R0P",
+                  "KS126QY605N7YVHFYCTW",
+                  "KS3VPP4UXQNR673OV5C7",
+                  "KS127296VDYS7ZFWVC46",
+                  "KS1200C5XQWW78VQ5ZYL",
+                  "KSZUL40VYT2KEP9E6YPH",
+                  "KS125LS6N7WP4S6SFTCK",
+                  "KSQOOX1S2DYD0E1VVZ5X",
+                  "KS9E9SUSTX6U1ESK796U",
+                  "KSHAT7C41615LE1RC2U1",
+                  "KS8J4ATW5ATG3ZUTGVQ5",
+                  "KS441LF7187KS0CV4B6Y"
+                ]
+              },
+              {
+                "Name": "Web Professionals",
+                "Id": "77",
+                "Percent": 27,
+                "NormalizedSkills": [
+                  "KS1208P6ZMZ4N872Y7X5",
+                  "KSFFZBDYXH5XA5QE4E7I",
+                  "KS1214R5XG4X4PY7LGY6",
+                  "KS121F45VPV8C9W3QFYH",
+                  "KSZX2KSAAHPJBCLO1HFE",
+                  "KS1232D6PH6SBVWWPQWC",
+                  "KSY4WFI1S164RQUBSPCC",
+                  "KSNQCEX0FGMCVVVXQ0MD",
+                  "KSEJ9O7MDIF29LQKLT2F",
+                  "KSQ4V3A6FGYT0MLOOUEX",
+                  "KSFXRX8RU2T0RXA7QPHJ",
+                  "KS124CH623PFBJS8T5KM",
+                  "KS1200578T5QCYT0Z98G",
+                  "KS124R369VRR6LYPTKXK",
+                  "KS1200771D9CR9LB4MWW",
+                  "KS8Q1AFYYGNWP3DV7MC7",
+                  "KS126PF6PJY1N0ZX5R0P",
+                  "KS126QY605N7YVHFYCTW",
+                  "KS3VPP4UXQNR673OV5C7",
+                  "KS127296VDYS7ZFWVC46",
+                  "KS1200C5XQWW78VQ5ZYL",
+                  "KSQOOX1S2DYD0E1VVZ5X",
+                  "KS9E9SUSTX6U1ESK796U",
+                  "KSHAT7C41615LE1RC2U1",
+                  "KS8J4ATW5ATG3ZUTGVQ5",
+                  "KS441LF7187KS0CV4B6Y"
+                ]
+              },
+              {
+                "Name": "System Developers and Analysts",
+                "Id": "86",
+                "Percent": 7,
+                "NormalizedSkills": [
+                  "KS1219W70LY1GXZDSKW5",
+                  "KSZX2KSAAHPJBCLO1HFE",
+                  "KS9IRHKOO7WVBIG35G80",
+                  "KS122PY6ZRDL0TD5GSH4",
+                  "KS122QR67M3DQDNP937T",
+                  "KS126JR6F5V2TRCLB1H5",
+                  "KS126PF6PJY1N0ZX5R0P",
+                  "KS126QY605N7YVHFYCTW",
+                  "KSZUL40VYT2KEP9E6YPH",
+                  "KS125LS6N7WP4S6SFTCK"
+                ]
+              },
+              {
+                "Name": "Database Specialists",
+                "Id": "79",
+                "Percent": 7,
+                "NormalizedSkills": [
+                  "KS9IRHKOO7WVBIG35G80",
+                  "KSDRW3VXX121JSHMDSJA",
+                  "KS122QR67M3DQDNP937T",
+                  "KS1227H6H5Q5Q3T2NQR5",
+                  "KS126JR6F5V2TRCLB1H5",
+                  "KS126PF6PJY1N0ZX5R0P",
+                  "KS126QY605N7YVHFYCTW",
+                  "KS125LS6N7WP4S6SFTCK"
+                ]
+              },
+              {
+                "Name": "IT Coordinators",
+                "Id": "81",
+                "Percent": 2,
+                "NormalizedSkills": [
+                  "KS3VPP4UXQNR673OV5C7",
+                  "KS127296VDYS7ZFWVC46",
+                  "KS441LF7187KS0CV4B6Y"
+                ]
+              },
+              {
+                "Name": "Consultants and Specialists",
+                "Id": "83",
+                "Percent": 1,
+                "NormalizedSkills": [
+                  "KS9IRHKOO7WVBIG35G80",
+                  "KS123KH77136Y0FWRNJY"
+                ]
+              },
+              {
+                "Name": "IT R&D Professionals",
+                "Id": "29",
+                "Percent": 0,
+                "NormalizedSkills": [
+                  "KS1219W70LY1GXZDSKW5",
+                  "KSZUL40VYT2KEP9E6YPH",
+                  "KS125LS6N7WP4S6SFTCK"
+                ]
+              },
+              {
+                "Name": "Information and Communication Technology (other)",
+                "Id": "291",
+                "Percent": 0,
+                "NormalizedSkills": [
+                  "KSY4WFI1S164RQUBSPCC",
+                  "KSFXRX8RU2T0RXA7QPHJ",
+                  "KS124CH623PFBJS8T5KM"
+                ]
+              },
+              {
+                "Name": "Support Staff",
+                "Id": "84",
+                "Percent": 0,
+                "NormalizedSkills": ["KSZX2KSAAHPJBCLO1HFE"]
+              }
+            ]
+          },
+          {
+            "Name": "Communication, Marketing and Public Relations",
+            "Id": "23",
+            "Percent": 7,
+            "Groups": [
+              {
+                "Name": "Communication, Marketing and Public Relations Managers",
+                "Id": "208",
+                "Percent": 7,
+                "NormalizedSkills": [
+                  "KS122BM7899YNC6504SP",
+                  "KS1238H659P08Z726BK8",
+                  "KS1208X6P4TZKZYJMTG8"
+                ]
+              },
+              {
+                "Name": "Marketing and Advertising Personnel",
+                "Id": "243",
+                "Percent": 0,
+                "NormalizedSkills": ["KS1208X6P4TZKZYJMTG8"]
+              }
+            ]
+          },
+          {
+            "Name": "Healthcare",
+            "Id": "6",
+            "Percent": 6,
+            "Groups": [
+              {
+                "Name": "Medical Assistants",
+                "Id": "47",
+                "Percent": 2,
+                "NormalizedSkills": ["KS127R26PVSGVL35D7L1"]
+              },
+              {
+                "Name": "Pharmacists and Pharmacologists",
+                "Id": "43",
+                "Percent": 2,
+                "NormalizedSkills": ["KS127R26PVSGVL35D7L1"]
+              },
+              {
+                "Name": "Carers",
+                "Id": "59",
+                "Percent": 1,
+                "NormalizedSkills": ["KS122BM7899YNC6504SP"]
+              },
+              {
+                "Name": "Specialists and Surgeons",
+                "Id": "56",
+                "Percent": 1,
+                "NormalizedSkills": ["KS1225V6Y8RC3F5RJY8P"]
+              },
+              {
+                "Name": "Physicians",
+                "Id": "44",
+                "Percent": 1,
+                "NormalizedSkills": ["KS1225V6Y8RC3F5RJY8P"]
+              }
+            ]
+          },
+          {
+            "Name": "Arts, Culture and Media",
+            "Id": "10",
+            "Percent": 4,
+            "Groups": [
+              {
+                "Name": "Illustrators and Designers (2D)",
+                "Id": "98",
+                "Percent": 2,
+                "NormalizedSkills": [
+                  "KSNQCEX0FGMCVVVXQ0MD",
+                  "KS1225V6Y8RC3F5RJY8P"
+                ]
+              },
+              {
+                "Name": "Journalists and Editors",
+                "Id": "121",
+                "Percent": 1,
+                "NormalizedSkills": ["KS122BM7899YNC6504SP"]
+              },
+              {
+                "Name": "Arts, Culture and Media (other)",
+                "Id": "292",
+                "Percent": 0,
+                "NormalizedSkills": ["KSNQCEX0FGMCVVVXQ0MD"]
+              },
+              {
+                "Name": "Directors and Producers",
+                "Id": "122",
+                "Percent": 0,
+                "NormalizedSkills": ["KSNQCEX0FGMCVVVXQ0MD"]
+              },
+              {
+                "Name": "Illustrators and Designers (3D)",
+                "Id": "89",
+                "Percent": 0,
+                "NormalizedSkills": ["KSNQCEX0FGMCVVVXQ0MD"]
+              }
+            ]
+          },
+          {
+            "Name": "Insurance and Finance",
+            "Id": "24",
+            "Percent": 3,
+            "Groups": [
+              {
+                "Name": "Accountants",
+                "Id": "218",
+                "Percent": 3,
+                "NormalizedSkills": [
+                  "KS123KH77136Y0FWRNJY",
+                  "KSEP82V3PE2H1FUZP3HO"
+                ]
+              }
+            ]
+          },
+          {
+            "Name": "Procurement and Warehouse Management",
+            "Id": "22",
+            "Percent": 2,
+            "Groups": [
+              {
+                "Name": "Buyers",
+                "Id": "224",
+                "Percent": 2,
+                "NormalizedSkills": ["KS123KH77136Y0FWRNJY"]
+              },
+              {
+                "Name": "Warehouse Staff and Box Fillers",
+                "Id": "112",
+                "Percent": 0,
+                "NormalizedSkills": ["KSU4G0EHN98X8QVP3OU5"]
+              }
+            ]
+          },
+          {
+            "Name": "Management, Policy and Governance",
+            "Id": "2",
+            "Percent": 1,
+            "Groups": [
+              {
+                "Name": "Management Analysts and Consultants",
+                "Id": "225",
+                "Percent": 1,
+                "NormalizedSkills": ["KS9IRHKOO7WVBIG35G80"]
+              },
+              {
+                "Name": "Management, Policy and Governance (other)",
+                "Id": "284",
+                "Percent": 0,
+                "NormalizedSkills": ["KSU4G0EHN98X8QVP3OU5"]
+              }
+            ]
+          },
+          {
+            "Name": "Administration and Customer Service",
+            "Id": "1",
+            "Percent": 1,
+            "Groups": [
+              {
+                "Name": "Financial-administrative Personnel",
+                "Id": "1",
+                "Percent": 1,
+                "NormalizedSkills": ["KSEP82V3PE2H1FUZP3HO"]
+              }
+            ]
+          },
+          {
+            "Name": "Engineering",
+            "Id": "5",
+            "Percent": 1,
+            "Groups": [
+              {
+                "Name": "Electrical Engineers, Designers, and Technicians",
+                "Id": "260",
+                "Percent": 1,
+                "NormalizedSkills": ["KS124R369VRR6LYPTKXK"]
+              }
+            ]
+          },
+          {
+            "Name": "Transport and Traffic",
+            "Id": "12",
+            "Percent": 1,
+            "Groups": [
+              {
+                "Name": "Freight Drivers",
+                "Id": "107",
+                "Percent": 1,
+                "NormalizedSkills": ["KS1249K6TSSZ13YPLR48"]
+              }
+            ]
+          },
+          {
+            "Name": "Production",
+            "Id": "18",
+            "Percent": 0,
+            "Groups": [
+              {
+                "Name": "Production Supervisors",
+                "Id": "264",
+                "Percent": 0,
+                "NormalizedSkills": ["KSU4G0EHN98X8QVP3OU5"]
+              },
+              {
+                "Name": "Production Managers",
+                "Id": "170",
+                "Percent": 0,
+                "NormalizedSkills": ["KSU4G0EHN98X8QVP3OU5"]
+              }
+            ]
+          },
+          {
+            "Name": "Police, Fire Department and Security",
+            "Id": "17",
+            "Percent": 0,
+            "Groups": [
+              {
+                "Name": "Safety and Security Personnel",
+                "Id": "167",
+                "Percent": 0,
+                "NormalizedSkills": ["KSU4G0EHN98X8QVP3OU5"]
+              }
+            ]
+          },
+          {
+            "Name": "Installation, Repair and Maintenance",
+            "Id": "8",
+            "Percent": 0,
+            "Groups": [
+              {
+                "Name": "Industrial Machinery Mechanics",
+                "Id": "69",
+                "Percent": 0,
+                "NormalizedSkills": ["KSU4G0EHN98X8QVP3OU5"]
+              }
+            ]
+          },
+          {
+            "Name": "Legal, Human Resources and Social Services",
+            "Id": "19",
+            "Percent": 0,
+            "Groups": [
+              {
+                "Name": "Occupational Health Experts and Inspectors",
+                "Id": "51",
+                "Percent": 0,
+                "NormalizedSkills": ["KSU4G0EHN98X8QVP3OU5"]
+              }
+            ]
+          }
+        ]
+      },
+      "LanguageCompetencies": [
+        {
+          "Language": "English",
+          "LanguageCode": "en",
+          "FoundInContext": "[RESUME_LANGUAGE]"
+        }
+      ],
+      "QualificationsSummary": "Skills\nProgramming Languages: JavaScript, TypeScript, Python, Minor - Java, PHP, C#/C/C++\nFrontend: React, Redux, Tailwind CSS, Bootstrap, Sass, HTML, CSS, JavaScript\nBackend: Node, Express\nDatabases: MongoDB, Firebase, Minor- MySQL, MSSQL\nTools: Git, Github, Lerna, Insomnia, Docker",
+      "ResumeMetadata": {
+        "FoundSections": [
+          {
+            "FirstLineNumber": 3,
+            "LastLineNumber": 9,
+            "SectionType": "SKILLS",
+            "HeaderTextFound": "Skills"
+          },
+          {
+            "FirstLineNumber": 10,
+            "LastLineNumber": 31,
+            "SectionType": "WORK HISTORY",
+            "HeaderTextFound": "Experience"
+          },
+          {
+            "FirstLineNumber": 32,
+            "LastLineNumber": 35,
+            "SectionType": "EDUCATION",
+            "HeaderTextFound": "Education"
+          },
+          {
+            "FirstLineNumber": 36,
+            "LastLineNumber": 53,
+            "SectionType": "PROJECT_HEADERS",
+            "HeaderTextFound": "Projects"
+          }
+        ],
+        "ResumeQuality": [
+          {
+            "Level": "Major Issues Found",
+            "Findings": [
+              {
+                "QualityCode": "300",
+                "Message": "You should not use the PDF format for your resume. Due to inherent limitations with text extraction from PDFs, you are less likely to get a job when using a PDF resume."
+              }
+            ]
+          },
+          {
+            "Level": "Data Missing",
+            "Findings": [
+              {
+                "QualityCode": "213",
+                "Message": "A street level address was not found in the contact information. A full contact address should always be included in a resume as it allows for location based searches."
+              }
+            ]
+          },
+          {
+            "Level": "Suggested Improvements",
+            "Findings": [
+              {
+                "QualityCode": "112",
+                "Message": "The following section was identified as a skills section type: 'Skills'. Skills should not be in a separate section, but instead, each skill should be included in the descriptions of work history or education. THIS IS INCREDIBLY IMPORTANT FOR AI MATCHING ALGORITHMS"
+              }
+            ]
+          }
+        ],
+        "ReservedData": {
+          "Phones": ["+91 7507811167"],
+          "Names": ["Uddhav", "Uddhav Jadhav"],
+          "EmailAddresses": ["mejuddhav@gmail.com"],
+          "Urls": [
+            "linkedin.com/in/uddhav-sj",
+            "github.com/UddhavSJadhav",
+            "SOCKET.IO"
+          ]
+        },
+        "PlainText": "Uddhav Jadhav\n?  +91 7507811167\t?  mejuddhav@gmail.com\t?  github.com/UddhavSJadhav\t? linkedin.com/in/uddhav-sj\n\nSkills\nProgramming Languages: JavaScript, TypeScript, Python, Minor - Java, PHP, C#/C/C++\nFrontend: React, Redux, Tailwind CSS, Bootstrap, Sass, HTML, CSS, JavaScript\nBackend: Node, Express\nDatabases: MongoDB, Firebase, Minor- MySQL, MSSQL\nTools: Git, Github, Lerna, Insomnia, Docker\n\nExperience\nMERN Developer\t| Freelance\tRemote  | July 2023 - Present\nClassified Ads\n•   Converted a provided template for a web and admin application into dynamic and interactive React applications,\nseamlessly integrating APIs with TanStack Query to enhance functionality and data retrieval.\n•   Incorporated a credits system, geolocation integration, and search functionality. Added necessary new Models and\nHTTP functions to the project's Django backend with the assistance of ChatGPT.\n•   Improved and enhanced search functions by implementing TrigramSimilarity on the backend.\nMERN Intern + Developer\t | NeonFlake\tRemote | August 2022 - July 2023\nEcommerce Stores\n•   Developed a user-friendly Ecom/ERP dashboard in React, created scalable APIs in the Node backend, and\nseamlessly integrated them with the frontend.\n•   Integrated various third-party APIs, including Cloudinary for media storage, Razorpay for payment processing,\nSendInBlue for email services, and Google Recaptcha for spam protection, among others.\n•   Significantly enhanced backend-to-database performance, optimizing database queries by 5 times. Implemented\nadvanced querying techniques such as aggregate, session transaction, and insert/updateMany to achieve this\nimprovement.\nPharmaceutical website\n•   Created an accessible, responsive, and interactive user interface from Figma using React, Bootstrap, and CSS.\n•   Developed an admin panel and Node backend to manage content, links, images, and logos, and connected it to the\nfrontend UI.\n\nEducation\nDevgad College, Devgad - Mumbai University\tJune 2021\nBachelor of Science in Information Technology\tCGPA: 9.3/10.0\n\nProjects\nRemote OK Clone (UI)\t| NEXT.JS, TYPESCRIPT, TAILWIND CSS\t| ? Link ?  Code\n•   Developed a UI clone of the Remote OK website using Next.js 13 (App Route), TypeScript, and Tailwind CSS.\n•   The primary goal was to replicate a real-world product to gain in-depth knowledge of its structure. During the\nproject, I learned about routing and type safety in Next.js, as well as Tailwind CSS and its configuration.\n•   Currently working on backend API implementation for enhanced functionality.\nForm Builder\t| MERN, LERNA, TAILWIND CSS\t| ? Link  ? Code\n•   Developed a form-builder application using the MERN stack and maintained it in a mono repo using Lerna.\n•   Users can perform CRUD operations on forms and obtain a public link. The application incorporates a points\nsystem, and all responses are stored and viewable in the admin dashboard.\n•   Implemented three types of questions - categorize, cloze, and comprehension - with drag-and-drop components.\n\nChatRoom\t| MERN, SOCKET.IO, BOOTSTRAP\t| ? Link  ?  Code\n•   Developed a real-time chat application using the MERN stack and Socket.IO.\n•   The application features a sidebar that displays new messages in conversations that the user is not currently\nviewing, a chat section that displays a sorted list of messages, and a textarea for users to enter messages.\n•   Implemented Socket.IO to enable real-time messaging between users, gaining valuable experience with this\ntechnology during the development process.",
+        "DocumentLanguage": "en",
+        "DocumentCulture": "en-IN",
+        "ParserSettings": "Coverage.PersonalAttributes = True; Coverage.Training = True; Culture.CountryCodeForUnitedKingdomIsUK = True; Culture.DefaultCountryCode = IN; Culture.DefaultCultureIsIndia = True; Culture.Language = English; Culture.PreferEnglishVersionIfTwoLanguagesInDocument = False; Data.NormalizeSkills = True; Data.UserDefinedParsing = False; Data.UseV2SkillsTaxonomy = True; OutputFormat.AssumeCompanyNameFromPrecedingJob = False; OutputFormat.ContactMethod.PackStyle = Split; OutputFormat.DateOutputStyle = ExplicitlyKnownDateInfoOnly; OutputFormat.NestJobsBasedOnDateRanges = True; OutputFormat.NormalizeRegions = False; OutputFormat.SimpleCustomLinkedIn = False; OutputFormat.SkillsStyle = Default; OutputFormat.StripParsedDataFromPositionHistoryDescription = True; OutputFormat.TelcomNumber.Style = Raw; OutputFormat.XmlFormat = HrXmlResume25",
+        "DocumentLastModified": "2023-11-23"
+      }
+    },
+    "RedactedResumeData": {
+      "ContactInformation": {},
+      "Education": {
+        "HighestDegree": {
+          "Name": {
+            "Raw": "Bachelor of Science in Information Technology",
+            "Normalized": "BSc"
+          },
+          "Type": "bachelors"
+        },
+        "EducationDetails": [
+          {
+            "Id": "DEG-1",
+            "Text": "Devgad College, Devgad - Mumbai University\tJune 2021\nBachelor of Science in Information Technology\tCGPA: 9.3/10.0",
+            "SchoolName": {
+              "Raw": "Devgad College, Devgad",
+              "Normalized": "Devgad College Devgad"
+            },
+            "SchoolType": "university",
+            "Location": {
+              "CountryCode": "IN",
+              "Regions": ["MAHARASHTRA"],
+              "Municipality": "Mumbai"
+            },
+            "Degree": {
+              "Name": {
+                "Raw": "Bachelor of Science in Information Technology",
+                "Normalized": "BSc"
+              },
+              "Type": "bachelors"
+            },
+            "Majors": ["Information Technology"],
+            "GPA": {
+              "Score": "9.3",
+              "ScoringSystem": "GPA",
+              "MaxScore": "10",
+              "MinimumScore": "0",
+              "NormalizedScore": 0.93
+            },
+            "LastEducationDate": {
+              "Date": "2021-06-01",
+              "IsCurrentDate": false,
+              "FoundYear": true,
+              "FoundMonth": true,
+              "FoundDay": false
+            },
+            "EndDate": {
+              "Date": "2021-06-01",
+              "IsCurrentDate": false,
+              "FoundYear": true,
+              "FoundMonth": true,
+              "FoundDay": false
+            }
+          }
+        ]
+      },
+      "EmploymentHistory": {
+        "ExperienceSummary": {
+          "Description": "   ~~~~~~~~  's skills align with Programmers (Information and Communication Technology).        also has skills associated with Web Professionals (Information and Communication Technology).    ~~~~~~~~   appears to be an entry-level candidate, with 16 months of experience.",
+          "MonthsOfWorkExperience": 16,
+          "MonthsOfManagementExperience": 0,
+          "ExecutiveType": "NONE",
+          "AverageMonthsPerEmployer": 8,
+          "FulltimeDirectHirePredictiveIndex": 1,
+          "ManagementStory": "",
+          "CurrentManagementLevel": "",
+          "ManagementScore": 0
+        },
+        "Positions": [
+          {
+            "Id": "POS-1",
+            "Employer": {
+              "Name": {
+                "Probability": "Confident",
+                "Raw": "Classified Ads",
+                "Normalized": "Classified Ads"
+              }
+            },
+            "IsSelfEmployed": false,
+            "IsCurrent": true,
+            "JobTitle": {
+              "Raw": "MERN Developer",
+              "Normalized": "MERN Developer",
+              "Probability": "Confident"
+            },
+            "StartDate": {
+              "Date": "2023-07-01",
+              "IsCurrentDate": false,
+              "FoundYear": true,
+              "FoundMonth": true,
+              "FoundDay": false
+            },
+            "EndDate": {
+              "Date": "2023-11-23",
+              "IsCurrentDate": true,
+              "FoundYear": true,
+              "FoundMonth": true,
+              "FoundDay": false
+            },
+            "JobType": "contract",
+            "JobLevel": "Entry Level",
+            "TaxonomyPercentage": 0,
+            "Description": "Converted a provided template for a web and admin application into dynamic and interactive React applications,\nseamlessly integrating APIs with TanStack Query to enhance functionality and data retrieval.\n•   Incorporated a credits system, geolocation integration, and search functionality. Added necessary new Models and HTTP functions to the project's Django backend with the assistance of ChatGPT.\n•   Improved and enhanced search functions by implementing TrigramSimilarity on the backend."
+          },
+          {
+            "Id": "POS-2",
+            "Employer": {
+              "Name": {
+                "Probability": "Probable",
+                "Raw": "NeonFlake",
+                "Normalized": "NeonFlake"
+              }
+            },
+            "IsSelfEmployed": false,
+            "IsCurrent": false,
+            "JobTitle": {
+              "Raw": "MERN Intern + Developer",
+              "Normalized": "MERN Intern AND Developer",
+              "Probability": "Confident"
+            },
+            "StartDate": {
+              "Date": "2022-08-01",
+              "IsCurrentDate": false,
+              "FoundYear": true,
+              "FoundMonth": true,
+              "FoundDay": false
+            },
+            "EndDate": {
+              "Date": "2023-07-01",
+              "IsCurrentDate": false,
+              "FoundYear": true,
+              "FoundMonth": true,
+              "FoundDay": false
+            },
+            "JobType": "internship",
+            "JobLevel": "Entry Level",
+            "TaxonomyPercentage": 0,
+            "Description": "Ecommerce Stores\n•   Developed a user-friendly Ecom/ERP dashboard in React, created scalable APIs in the Node backend, and seamlessly integrated them with the frontend.\n•   Integrated various third-party APIs, including Cloudinary for media storage, Razorpay for payment processing,\nSendInBlue for email services, and Google Recaptcha for spam protection, among others.\n•   Significantly enhanced backend-to-database performance, optimizing database queries by 5 times. Implemented\nadvanced querying techniques such as aggregate, session transaction, and insert/updateMany to achieve this\nimprovement.\nPharmaceutical website\n•   Created an accessible, responsive, and interactive user interface from Figma using React, Bootstrap, and CSS.\n•   Developed an admin panel and Node backend to manage content, links, images, and logos, and connected it to the frontend UI."
+          }
+        ]
+      },
+      "Skills": {
+        "Raw": [
+          {
+            "Name": "API",
+            "FoundIn": [
+              {
+                "SectionType": "PROJECT_HEADERS"
+              },
+              {
+                "SectionType": "WORK HISTORY"
+              }
+            ]
+          },
+          {
+            "Name": "APIs",
+            "FoundIn": [
+              {
+                "SectionType": "WORK HISTORY",
+                "Id": "POS-1"
+              },
+              {
+                "SectionType": "WORK HISTORY",
+                "Id": "POS-2"
+              }
+            ],
+            "MonthsExperience": {
+              "Value": 16
+            },
+            "LastUsed": {
+              "Value": "2023-11-23"
+            }
+          },
+          {
+            "Name": "backend",
+            "FoundIn": [
+              {
+                "SectionType": "PROJECT_HEADERS"
+              },
+              {
+                "SectionType": "SKILLS"
+              },
+              {
+                "SectionType": "WORK HISTORY",
+                "Id": "POS-1"
+              },
+              {
+                "SectionType": "WORK HISTORY",
+                "Id": "POS-2"
+              }
+            ],
+            "MonthsExperience": {
+              "Value": 16
+            },
+            "LastUsed": {
+              "Value": "2023-11-23"
+            }
+          },
+          {
+            "Name": "BOOTSTRAP",
+            "FoundIn": [
+              {
+                "SectionType": "PROJECT_HEADERS"
+              },
+              {
+                "SectionType": "SKILLS"
+              },
+              {
+                "SectionType": "WORK HISTORY",
+                "Id": "POS-2"
+              }
+            ],
+            "MonthsExperience": {
+              "Value": 11
+            },
+            "LastUsed": {
+              "Value": "2023-07-01"
+            }
+          },
+          {
+            "Name": "C#",
+            "FoundIn": [
+              {
+                "SectionType": "SKILLS"
+              }
+            ]
+          },
+          {
+            "Name": "C#/C",
+            "FoundIn": [
+              {
+                "SectionType": "SKILLS"
+              }
+            ]
+          },
+          {
+            "Name": "Classified Ads",
+            "FoundIn": [
+              {
+                "SectionType": "WORK HISTORY"
+              }
+            ]
+          },
+          {
+            "Name": "CRUD",
+            "FoundIn": [
+              {
+                "SectionType": "PROJECT_HEADERS"
+              },
+              {
+                "SectionType": "WORK HISTORY"
+              }
+            ]
+          },
+          {
+            "Name": "CSS",
+            "FoundIn": [
+              {
+                "SectionType": "SKILLS"
+              },
+              {
+                "SectionType": "WORK HISTORY",
+                "Id": "POS-2"
+              }
+            ],
+            "MonthsExperience": {
+              "Value": 11
+            },
+            "LastUsed": {
+              "Value": "2023-07-01"
+            }
+          },
+          {
+            "Name": "dashboard.",
+            "FoundIn": [
+              {
+                "SectionType": "PROJECT_HEADERS"
+              },
+              {
+                "SectionType": "WORK HISTORY",
+                "Id": "POS-2"
+              }
+            ],
+            "MonthsExperience": {
+              "Value": 11
+            },
+            "LastUsed": {
+              "Value": "2023-07-01"
+            }
+          },
+          {
+            "Name": "data retrieval.",
+            "FoundIn": [
+              {
+                "SectionType": "WORK HISTORY",
+                "Id": "POS-1"
+              }
+            ],
+            "MonthsExperience": {
+              "Value": 5
+            },
+            "LastUsed": {
+              "Value": "2023-11-23"
+            }
+          },
+          {
+            "Name": "database performance",
+            "FoundIn": [
+              {
+                "SectionType": "WORK HISTORY",
+                "Id": "POS-2"
+              }
+            ],
+            "MonthsExperience": {
+              "Value": 11
+            },
+            "LastUsed": {
+              "Value": "2023-07-01"
+            }
+          },
+          {
+            "Name": "database queries",
+            "FoundIn": [
+              {
+                "SectionType": "WORK HISTORY",
+                "Id": "POS-2"
+              }
+            ],
+            "MonthsExperience": {
+              "Value": 11
+            },
+            "LastUsed": {
+              "Value": "2023-07-01"
+            }
+          },
+          {
+            "Name": "Databases",
+            "FoundIn": [
+              {
+                "SectionType": "SKILLS"
+              }
+            ]
+          },
+          {
+            "Name": "Django",
+            "FoundIn": [
+              {
+                "SectionType": "WORK HISTORY",
+                "Id": "POS-1"
+              }
+            ],
+            "MonthsExperience": {
+              "Value": 5
+            },
+            "LastUsed": {
+              "Value": "2023-11-23"
+            }
+          },
+          {
+            "Name": "Docker",
+            "FoundIn": [
+              {
+                "SectionType": "SKILLS"
+              }
+            ]
+          },
+          {
+            "Name": "Ecommerce",
+            "FoundIn": [
+              {
+                "SectionType": "WORK HISTORY",
+                "Id": "POS-2"
+              }
+            ],
+            "MonthsExperience": {
+              "Value": 11
+            },
+            "LastUsed": {
+              "Value": "2023-07-01"
+            }
+          },
+          {
+            "Name": "ERP",
+            "FoundIn": [
+              {
+                "SectionType": "WORK HISTORY",
+                "Id": "POS-2"
+              }
+            ],
+            "MonthsExperience": {
+              "Value": 11
+            },
+            "LastUsed": {
+              "Value": "2023-07-01"
+            }
+          },
+          {
+            "Name": "Figma",
+            "FoundIn": [
+              {
+                "SectionType": "WORK HISTORY",
+                "Id": "POS-2"
+              }
+            ],
+            "MonthsExperience": {
+              "Value": 11
+            },
+            "LastUsed": {
+              "Value": "2023-07-01"
+            }
+          },
+          {
+            "Name": "Firebase",
+            "FoundIn": [
+              {
+                "SectionType": "SKILLS"
+              }
+            ]
+          },
+          {
+            "Name": "friendly",
+            "FoundIn": [
+              {
+                "SectionType": "WORK HISTORY",
+                "Id": "POS-2"
+              }
+            ],
+            "MonthsExperience": {
+              "Value": 11
+            },
+            "LastUsed": {
+              "Value": "2023-07-01"
+            }
+          },
+          {
+            "Name": "Frontend",
+            "FoundIn": [
+              {
+                "SectionType": "SKILLS"
+              },
+              {
+                "SectionType": "WORK HISTORY",
+                "Id": "POS-2"
+              }
+            ],
+            "MonthsExperience": {
+              "Value": 11
+            },
+            "LastUsed": {
+              "Value": "2023-07-01"
+            }
+          },
+          {
+            "Name": "geolocation",
+            "FoundIn": [
+              {
+                "SectionType": "WORK HISTORY",
+                "Id": "POS-1"
+              }
+            ],
+            "MonthsExperience": {
+              "Value": 5
+            },
+            "LastUsed": {
+              "Value": "2023-11-23"
+            }
+          },
+          {
+            "Name": "Git",
+            "FoundIn": [
+              {
+                "SectionType": "SKILLS"
+              }
+            ]
+          },
+          {
+            "Name": "Github",
+            "FoundIn": [
+              {
+                "SectionType": "SKILLS"
+              }
+            ]
+          },
+          {
+            "Name": "HTML",
+            "FoundIn": [
+              {
+                "SectionType": "SKILLS"
+              }
+            ]
+          },
+          {
+            "Name": "Information Technology",
+            "FoundIn": [
+              {
+                "SectionType": "EDUCATION"
+              }
+            ]
+          },
+          {
+            "Name": "Java",
+            "FoundIn": [
+              {
+                "SectionType": "SKILLS"
+              }
+            ]
+          },
+          {
+            "Name": "JavaScript",
+            "FoundIn": [
+              {
+                "SectionType": "SKILLS"
+              }
+            ]
+          },
+          {
+            "Name": "logos",
+            "FoundIn": [
+              {
+                "SectionType": "WORK HISTORY",
+                "Id": "POS-2"
+              }
+            ],
+            "MonthsExperience": {
+              "Value": 11
+            },
+            "LastUsed": {
+              "Value": "2023-07-01"
+            }
+          },
+          {
+            "Name": "manage content",
+            "FoundIn": [
+              {
+                "SectionType": "WORK HISTORY",
+                "Id": "POS-2"
+              }
+            ],
+            "MonthsExperience": {
+              "Value": 11
+            },
+            "LastUsed": {
+              "Value": "2023-07-01"
+            }
+          },
+          {
+            "Name": "MERN",
+            "FoundIn": [
+              {
+                "SectionType": "PROJECT_HEADERS"
+              },
+              {
+                "SectionType": "WORK HISTORY",
+                "Id": "POS-1"
+              },
+              {
+                "SectionType": "WORK HISTORY",
+                "Id": "POS-2"
+              }
+            ],
+            "MonthsExperience": {
+              "Value": 16
+            },
+            "LastUsed": {
+              "Value": "2023-11-23"
+            }
+          },
+          {
+            "Name": "MongoDB",
+            "FoundIn": [
+              {
+                "SectionType": "SKILLS"
+              }
+            ]
+          },
+          {
+            "Name": "MSSQL",
+            "FoundIn": [
+              {
+                "SectionType": "SKILLS"
+              }
+            ]
+          },
+          {
+            "Name": "MySQL",
+            "FoundIn": [
+              {
+                "SectionType": "SKILLS"
+              }
+            ]
+          },
+          {
+            "Name": "NEXT.JS",
+            "FoundIn": [
+              {
+                "SectionType": "PROJECT_HEADERS"
+              },
+              {
+                "SectionType": "WORK HISTORY"
+              }
+            ]
+          },
+          {
+            "Name": "Node",
+            "FoundIn": [
+              {
+                "SectionType": "SKILLS"
+              },
+              {
+                "SectionType": "WORK HISTORY",
+                "Id": "POS-2"
+              }
+            ],
+            "MonthsExperience": {
+              "Value": 11
+            },
+            "LastUsed": {
+              "Value": "2023-07-01"
+            }
+          },
+          {
+            "Name": "payment processing",
+            "FoundIn": [
+              {
+                "SectionType": "WORK HISTORY",
+                "Id": "POS-2"
+              }
+            ],
+            "MonthsExperience": {
+              "Value": 11
+            },
+            "LastUsed": {
+              "Value": "2023-07-01"
+            }
+          },
+          {
+            "Name": "Pharmaceutical",
+            "FoundIn": [
+              {
+                "SectionType": "WORK HISTORY",
+                "Id": "POS-2"
+              }
+            ],
+            "MonthsExperience": {
+              "Value": 11
+            },
+            "LastUsed": {
+              "Value": "2023-07-01"
+            }
+          },
+          {
+            "Name": "PHP",
+            "FoundIn": [
+              {
+                "SectionType": "SKILLS"
+              }
+            ]
+          },
+          {
+            "Name": "Programming Languages",
+            "FoundIn": [
+              {
+                "SectionType": "SKILLS"
+              }
+            ]
+          },
+          {
+            "Name": "Python",
+            "FoundIn": [
+              {
+                "SectionType": "SKILLS"
+              }
+            ]
+          },
+          {
+            "Name": "React",
+            "FoundIn": [
+              {
+                "SectionType": "SKILLS"
+              },
+              {
+                "SectionType": "WORK HISTORY",
+                "Id": "POS-1"
+              },
+              {
+                "SectionType": "WORK HISTORY",
+                "Id": "POS-2"
+              }
+            ],
+            "MonthsExperience": {
+              "Value": 16
+            },
+            "LastUsed": {
+              "Value": "2023-11-23"
+            }
+          },
+          {
+            "Name": "Redux",
+            "FoundIn": [
+              {
+                "SectionType": "SKILLS"
+              }
+            ]
+          },
+          {
+            "Name": "safety",
+            "FoundIn": [
+              {
+                "SectionType": "PROJECT_HEADERS"
+              },
+              {
+                "SectionType": "WORK HISTORY"
+              }
+            ]
+          },
+          {
+            "Name": "Sass",
+            "FoundIn": [
+              {
+                "SectionType": "SKILLS"
+              }
+            ]
+          },
+          {
+            "Name": "TAILWIND CSS",
+            "FoundIn": [
+              {
+                "SectionType": "PROJECT_HEADERS"
+              },
+              {
+                "SectionType": "SKILLS"
+              },
+              {
+                "SectionType": "WORK HISTORY"
+              }
+            ]
+          },
+          {
+            "Name": "TYPESCRIPT",
+            "FoundIn": [
+              {
+                "SectionType": "PROJECT_HEADERS"
+              },
+              {
+                "SectionType": "SKILLS"
+              },
+              {
+                "SectionType": "WORK HISTORY"
+              }
+            ]
+          },
+          {
+            "Name": "user interface",
+            "FoundIn": [
+              {
+                "SectionType": "WORK HISTORY",
+                "Id": "POS-2"
+              }
+            ],
+            "MonthsExperience": {
+              "Value": 11
+            },
+            "LastUsed": {
+              "Value": "2023-07-01"
+            }
+          }
+        ],
+        "Normalized": [
+          {
+            "Name": "Backend",
+            "Id": "KSFFZBDYXH5XA5QE4E7I",
+            "Type": "IT",
+            "FoundIn": [
+              {
+                "SectionType": "PROJECT_HEADERS"
+              },
+              {
+                "SectionType": "SKILLS"
+              },
+              {
+                "SectionType": "WORK HISTORY",
+                "Id": "POS-1"
+              },
+              {
+                "SectionType": "WORK HISTORY",
+                "Id": "POS-2"
+              }
+            ],
+            "MonthsExperience": {
+              "Value": 16
+            },
+            "LastUsed": {
+              "Value": "2023-11-23"
+            },
+            "RawSkills": ["backend"]
+          },
+          {
+            "Name": "Application Programming Interfaces (APIs)",
+            "Id": "KS1208P6ZMZ4N872Y7X5",
+            "Type": "IT",
+            "FoundIn": [
+              {
+                "SectionType": "PROJECT_HEADERS"
+              },
+              {
+                "SectionType": "WORK HISTORY",
+                "Id": "POS-1"
+              },
+              {
+                "SectionType": "WORK HISTORY",
+                "Id": "POS-2"
+              }
+            ],
+            "MonthsExperience": {
+              "Value": 16
+            },
+            "LastUsed": {
+              "Value": "2023-11-23"
+            },
+            "RawSkills": ["API", "APIs"]
+          },
+          {
+            "Name": "Mern",
+            "Id": "KS8Q1AFYYGNWP3DV7MC7",
+            "Type": "IT",
+            "FoundIn": [
+              {
+                "SectionType": "PROJECT_HEADERS"
+              },
+              {
+                "SectionType": "WORK HISTORY",
+                "Id": "POS-1"
+              },
+              {
+                "SectionType": "WORK HISTORY",
+                "Id": "POS-2"
+              }
+            ],
+            "MonthsExperience": {
+              "Value": 16
+            },
+            "LastUsed": {
+              "Value": "2023-11-23"
+            },
+            "RawSkills": ["MERN"]
+          },
+          {
+            "Name": "ReactJS",
+            "Id": "KS9E9SUSTX6U1ESK796U",
+            "Type": "IT",
+            "FoundIn": [
+              {
+                "SectionType": "SKILLS"
+              },
+              {
+                "SectionType": "WORK HISTORY",
+                "Id": "POS-1"
+              },
+              {
+                "SectionType": "WORK HISTORY",
+                "Id": "POS-2"
+              }
+            ],
+            "MonthsExperience": {
+              "Value": 16
+            },
+            "LastUsed": {
+              "Value": "2023-11-23"
+            },
+            "RawSkills": ["React"]
+          },
+          {
+            "Name": "Django Web Framework",
+            "Id": "KS1232D6PH6SBVWWPQWC",
+            "Type": "IT",
+            "FoundIn": [
+              {
+                "SectionType": "WORK HISTORY",
+                "Id": "POS-1"
+              }
+            ],
+            "MonthsExperience": {
+              "Value": 5
+            },
+            "LastUsed": {
+              "Value": "2023-11-23"
+            },
+            "RawSkills": ["Django"]
+          },
+          {
+            "Name": "Data Retrieval",
+            "Id": "KS122PY6ZRDL0TD5GSH4",
+            "Type": "IT",
+            "FoundIn": [
+              {
+                "SectionType": "WORK HISTORY",
+                "Id": "POS-1"
+              }
+            ],
+            "MonthsExperience": {
+              "Value": 5
+            },
+            "LastUsed": {
+              "Value": "2023-11-23"
+            },
+            "RawSkills": ["data retrieval."]
+          },
+          {
+            "Name": "Geolocation",
+            "Id": "KS1249K6TSSZ13YPLR48",
+            "Type": "Professional",
+            "FoundIn": [
+              {
+                "SectionType": "WORK HISTORY",
+                "Id": "POS-1"
+              }
+            ],
+            "MonthsExperience": {
+              "Value": 5
+            },
+            "LastUsed": {
+              "Value": "2023-11-23"
+            },
+            "RawSkills": ["geolocation"]
+          },
+          {
+            "Name": "Bootstrap (Software)",
+            "Id": "KS1214R5XG4X4PY7LGY6",
+            "Type": "IT",
+            "FoundIn": [
+              {
+                "SectionType": "PROJECT_HEADERS"
+              },
+              {
+                "SectionType": "SKILLS"
+              },
+              {
+                "SectionType": "WORK HISTORY",
+                "Id": "POS-2"
+              }
+            ],
+            "MonthsExperience": {
+              "Value": 11
+            },
+            "LastUsed": {
+              "Value": "2023-07-01"
+            },
+            "RawSkills": ["BOOTSTRAP"]
+          },
+          {
+            "Name": "Cascading Style Sheets (CSS)",
+            "Id": "KS121F45VPV8C9W3QFYH",
+            "Type": "IT",
+            "FoundIn": [
+              {
+                "SectionType": "SKILLS"
+              },
+              {
+                "SectionType": "WORK HISTORY",
+                "Id": "POS-2"
+              }
+            ],
+            "MonthsExperience": {
+              "Value": 11
+            },
+            "LastUsed": {
+              "Value": "2023-07-01"
+            },
+            "RawSkills": ["CSS"]
+          },
+          {
+            "Name": "Front End Software Development",
+            "Id": "KSQ4V3A6FGYT0MLOOUEX",
+            "Type": "IT",
+            "FoundIn": [
+              {
+                "SectionType": "SKILLS"
+              },
+              {
+                "SectionType": "WORK HISTORY",
+                "Id": "POS-2"
+              }
+            ],
+            "MonthsExperience": {
+              "Value": 11
+            },
+            "LastUsed": {
+              "Value": "2023-07-01"
+            },
+            "RawSkills": ["Frontend"]
+          },
+          {
+            "Name": "Node.Js",
+            "Id": "KS127296VDYS7ZFWVC46",
+            "Type": "IT",
+            "FoundIn": [
+              {
+                "SectionType": "SKILLS"
+              },
+              {
+                "SectionType": "WORK HISTORY",
+                "Id": "POS-2"
+              }
+            ],
+            "MonthsExperience": {
+              "Value": 11
+            },
+            "LastUsed": {
+              "Value": "2023-07-01"
+            },
+            "RawSkills": ["Node"]
+          },
+          {
+            "Name": "Dashboards",
+            "Id": "KS9IRHKOO7WVBIG35G80",
+            "Type": "Professional",
+            "FoundIn": [
+              {
+                "SectionType": "PROJECT_HEADERS"
+              },
+              {
+                "SectionType": "WORK HISTORY",
+                "Id": "POS-2"
+              }
+            ],
+            "MonthsExperience": {
+              "Value": 11
+            },
+            "LastUsed": {
+              "Value": "2023-07-01"
+            },
+            "RawSkills": ["dashboard."]
+          },
+          {
+            "Name": "Database Queries",
+            "Id": "KS122QR67M3DQDNP937T",
+            "Type": "IT",
+            "FoundIn": [
+              {
+                "SectionType": "WORK HISTORY",
+                "Id": "POS-2"
+              }
+            ],
+            "MonthsExperience": {
+              "Value": 11
+            },
+            "LastUsed": {
+              "Value": "2023-07-01"
+            },
+            "RawSkills": ["database queries"]
+          },
+          {
+            "Name": "Human-Computer Interaction",
+            "Id": "KS124R369VRR6LYPTKXK",
+            "Type": "IT",
+            "FoundIn": [
+              {
+                "SectionType": "WORK HISTORY",
+                "Id": "POS-2"
+              }
+            ],
+            "MonthsExperience": {
+              "Value": 11
+            },
+            "LastUsed": {
+              "Value": "2023-07-01"
+            },
+            "RawSkills": ["user interface"]
+          },
+          {
+            "Name": "Figma",
+            "Id": "KSNQCEX0FGMCVVVXQ0MD",
+            "Type": "IT",
+            "FoundIn": [
+              {
+                "SectionType": "WORK HISTORY",
+                "Id": "POS-2"
+              }
+            ],
+            "MonthsExperience": {
+              "Value": 11
+            },
+            "LastUsed": {
+              "Value": "2023-07-01"
+            },
+            "RawSkills": ["Figma"]
+          },
+          {
+            "Name": "Database Performance",
+            "Id": "KSDRW3VXX121JSHMDSJA",
+            "Type": "IT",
+            "FoundIn": [
+              {
+                "SectionType": "WORK HISTORY",
+                "Id": "POS-2"
+              }
+            ],
+            "MonthsExperience": {
+              "Value": 11
+            },
+            "LastUsed": {
+              "Value": "2023-07-01"
+            },
+            "RawSkills": ["database performance"]
+          },
+          {
+            "Name": "Enterprise Resource Planning",
+            "Id": "KS123KH77136Y0FWRNJY",
+            "Type": "Professional",
+            "FoundIn": [
+              {
+                "SectionType": "WORK HISTORY",
+                "Id": "POS-2"
+              }
+            ],
+            "MonthsExperience": {
+              "Value": 11
+            },
+            "LastUsed": {
+              "Value": "2023-07-01"
+            },
+            "RawSkills": ["ERP"]
+          },
+          {
+            "Name": "Content Management",
+            "Id": "KS122BM7899YNC6504SP",
+            "Type": "Professional",
+            "FoundIn": [
+              {
+                "SectionType": "WORK HISTORY",
+                "Id": "POS-2"
+              }
+            ],
+            "MonthsExperience": {
+              "Value": 11
+            },
+            "LastUsed": {
+              "Value": "2023-07-01"
+            },
+            "RawSkills": ["manage content"]
+          },
+          {
+            "Name": "E-Commerce",
+            "Id": "KS1238H659P08Z726BK8",
+            "Type": "Professional",
+            "FoundIn": [
+              {
+                "SectionType": "WORK HISTORY",
+                "Id": "POS-2"
+              }
+            ],
+            "MonthsExperience": {
+              "Value": 11
+            },
+            "LastUsed": {
+              "Value": "2023-07-01"
+            },
+            "RawSkills": ["Ecommerce"]
+          },
+          {
+            "Name": "Pharmaceuticals",
+            "Id": "KS127R26PVSGVL35D7L1",
+            "Type": "Professional",
+            "FoundIn": [
+              {
+                "SectionType": "WORK HISTORY",
+                "Id": "POS-2"
+              }
+            ],
+            "MonthsExperience": {
+              "Value": 11
+            },
+            "LastUsed": {
+              "Value": "2023-07-01"
+            },
+            "RawSkills": ["Pharmaceutical"]
+          },
+          {
+            "Name": "Logotypes",
+            "Id": "KS1225V6Y8RC3F5RJY8P",
+            "Type": "Professional",
+            "FoundIn": [
+              {
+                "SectionType": "WORK HISTORY",
+                "Id": "POS-2"
+              }
+            ],
+            "MonthsExperience": {
+              "Value": 11
+            },
+            "LastUsed": {
+              "Value": "2023-07-01"
+            },
+            "RawSkills": ["logos"]
+          },
+          {
+            "Name": "Processing of Payments",
+            "Id": "KSEP82V3PE2H1FUZP3HO",
+            "Type": "Professional",
+            "FoundIn": [
+              {
+                "SectionType": "WORK HISTORY",
+                "Id": "POS-2"
+              }
+            ],
+            "MonthsExperience": {
+              "Value": 11
+            },
+            "LastUsed": {
+              "Value": "2023-07-01"
+            },
+            "RawSkills": ["payment processing"]
+          },
+          {
+            "Name": "Friendliness",
+            "Id": "KS4DOAH8RJ88A8BZ4EY6",
+            "Type": "Soft",
+            "FoundIn": [
+              {
+                "SectionType": "WORK HISTORY",
+                "Id": "POS-2"
+              }
+            ],
+            "MonthsExperience": {
+              "Value": 11
+            },
+            "LastUsed": {
+              "Value": "2023-07-01"
+            },
+            "RawSkills": ["friendly"]
+          },
+          {
+            "Name": "Tailwind",
+            "Id": "KS8J4ATW5ATG3ZUTGVQ5",
+            "Type": "IT",
+            "FoundIn": [
+              {
+                "SectionType": "PROJECT_HEADERS"
+              },
+              {
+                "SectionType": "SKILLS"
+              },
+              {
+                "SectionType": "WORK HISTORY"
+              }
+            ],
+            "RawSkills": ["TAILWIND CSS"]
+          },
+          {
+            "Name": "TypeScript",
+            "Id": "KS441LF7187KS0CV4B6Y",
+            "Type": "IT",
+            "FoundIn": [
+              {
+                "SectionType": "PROJECT_HEADERS"
+              },
+              {
+                "SectionType": "SKILLS"
+              },
+              {
+                "SectionType": "WORK HISTORY"
+              }
+            ],
+            "RawSkills": ["TYPESCRIPT"]
+          },
+          {
+            "Name": "Crud",
+            "Id": "KSZX2KSAAHPJBCLO1HFE",
+            "Type": "IT",
+            "FoundIn": [
+              {
+                "SectionType": "PROJECT_HEADERS"
+              },
+              {
+                "SectionType": "WORK HISTORY"
+              }
+            ],
+            "RawSkills": ["CRUD"]
+          },
+          {
+            "Name": "Next.js",
+            "Id": "KS3VPP4UXQNR673OV5C7",
+            "Type": "IT",
+            "FoundIn": [
+              {
+                "SectionType": "PROJECT_HEADERS"
+              },
+              {
+                "SectionType": "WORK HISTORY"
+              }
+            ],
+            "RawSkills": ["NEXT.JS"]
+          },
+          {
+            "Name": "Safety Principles",
+            "Id": "KSU4G0EHN98X8QVP3OU5",
+            "Type": "Professional",
+            "FoundIn": [
+              {
+                "SectionType": "PROJECT_HEADERS"
+              },
+              {
+                "SectionType": "WORK HISTORY"
+              }
+            ],
+            "RawSkills": ["safety"]
+          },
+          {
+            "Name": "C Sharp (Programming Language)",
+            "Id": "KS1219N6Z3XQ19V0HSKR",
+            "Type": "IT",
+            "FoundIn": [
+              {
+                "SectionType": "SKILLS"
+              }
+            ],
+            "RawSkills": ["C#"]
+          },
+          {
+            "Name": "C++ (Programming Language)",
+            "Id": "KS1219W70LY1GXZDSKW5",
+            "Type": "IT",
+            "FoundIn": [
+              {
+                "SectionType": "SKILLS"
+              }
+            ],
+            "RawSkills": ["C#/C"]
+          },
+          {
+            "Name": "Databases",
+            "Id": "KS1227H6H5Q5Q3T2NQR5",
+            "Type": "IT",
+            "FoundIn": [
+              {
+                "SectionType": "SKILLS"
+              }
+            ],
+            "RawSkills": ["Databases"]
+          },
+          {
+            "Name": "Docker",
+            "Id": "KSY4WFI1S164RQUBSPCC",
+            "Type": "IT",
+            "FoundIn": [
+              {
+                "SectionType": "SKILLS"
+              }
+            ],
+            "RawSkills": ["Docker"]
+          },
+          {
+            "Name": "Firebase",
+            "Id": "KSEJ9O7MDIF29LQKLT2F",
+            "Type": "IT",
+            "FoundIn": [
+              {
+                "SectionType": "SKILLS"
+              }
+            ],
+            "RawSkills": ["Firebase"]
+          },
+          {
+            "Name": "Git",
+            "Id": "KSFXRX8RU2T0RXA7QPHJ",
+            "Type": "IT",
+            "FoundIn": [
+              {
+                "SectionType": "SKILLS"
+              }
+            ],
+            "RawSkills": ["Git"]
+          },
+          {
+            "Name": "Github",
+            "Id": "KS124CH623PFBJS8T5KM",
+            "Type": "IT",
+            "FoundIn": [
+              {
+                "SectionType": "SKILLS"
+              }
+            ],
+            "RawSkills": ["Github"]
+          },
+          {
+            "Name": "HTML",
+            "Id": "KS1200578T5QCYT0Z98G",
+            "Type": "IT",
+            "FoundIn": [
+              {
+                "SectionType": "SKILLS"
+              }
+            ],
+            "RawSkills": ["HTML"]
+          },
+          {
+            "Name": "Information Technology",
+            "Id": "KSJLPQMW0YRWJSWO4NFL",
+            "Type": "IT",
+            "FoundIn": [
+              {
+                "SectionType": "EDUCATION"
+              }
+            ],
+            "RawSkills": ["Information Technology"]
+          },
+          {
+            "Name": "Java (Programming Language)",
+            "Id": "KS120076FGP5WGWYMP0F",
+            "Type": "IT",
+            "FoundIn": [
+              {
+                "SectionType": "SKILLS"
+              }
+            ],
+            "RawSkills": ["Java"]
+          },
+          {
+            "Name": "JavaScript (Programming Language)",
+            "Id": "KS1200771D9CR9LB4MWW",
+            "Type": "IT",
+            "FoundIn": [
+              {
+                "SectionType": "SKILLS"
+              }
+            ],
+            "RawSkills": ["JavaScript"]
+          },
+          {
+            "Name": "Microsoft SQL Server",
+            "Id": "KS126JR6F5V2TRCLB1H5",
+            "Type": "IT",
+            "FoundIn": [
+              {
+                "SectionType": "SKILLS"
+              }
+            ],
+            "RawSkills": ["MSSQL"]
+          },
+          {
+            "Name": "MongoDB",
+            "Id": "KS126PF6PJY1N0ZX5R0P",
+            "Type": "IT",
+            "FoundIn": [
+              {
+                "SectionType": "SKILLS"
+              }
+            ],
+            "RawSkills": ["MongoDB"]
+          },
+          {
+            "Name": "MySQL",
+            "Id": "KS126QY605N7YVHFYCTW",
+            "Type": "IT",
+            "FoundIn": [
+              {
+                "SectionType": "SKILLS"
+              }
+            ],
+            "RawSkills": ["MySQL"]
+          },
+          {
+            "Name": "PHP (Programming Language)",
+            "Id": "KS1200C5XQWW78VQ5ZYL",
+            "Type": "IT",
+            "FoundIn": [
+              {
+                "SectionType": "SKILLS"
+              }
+            ],
+            "RawSkills": ["PHP"]
+          },
+          {
+            "Name": "Programming Languages",
+            "Id": "KSZUL40VYT2KEP9E6YPH",
+            "Type": "IT",
+            "FoundIn": [
+              {
+                "SectionType": "SKILLS"
+              }
+            ],
+            "RawSkills": ["Programming Languages"]
+          },
+          {
+            "Name": "Python (Programming Language)",
+            "Id": "KS125LS6N7WP4S6SFTCK",
+            "Type": "IT",
+            "FoundIn": [
+              {
+                "SectionType": "SKILLS"
+              }
+            ],
+            "RawSkills": ["Python"]
+          },
+          {
+            "Name": "React Redux",
+            "Id": "KSQOOX1S2DYD0E1VVZ5X",
+            "Type": "IT",
+            "FoundIn": [
+              {
+                "SectionType": "SKILLS"
+              }
+            ],
+            "RawSkills": ["Redux"]
+          },
+          {
+            "Name": "Syntactically Awesome Style Sheets (SASS)",
+            "Id": "KSHAT7C41615LE1RC2U1",
+            "Type": "IT",
+            "FoundIn": [
+              {
+                "SectionType": "SKILLS"
+              }
+            ],
+            "RawSkills": ["Sass"]
+          },
+          {
+            "Name": "Knowledge of Advertising",
+            "Id": "KS1208X6P4TZKZYJMTG8",
+            "Type": "Professional",
+            "FoundIn": [
+              {
+                "SectionType": "WORK HISTORY"
+              }
+            ],
+            "RawSkills": ["Classified Ads"]
+          }
+        ],
+        "RelatedProfessionClasses": [
+          {
+            "Name": "Information and Communication Technology",
+            "Id": "9",
+            "Percent": 74,
+            "Groups": [
+              {
+                "Name": "Programmers",
+                "Id": "82",
+                "Percent": 30,
+                "NormalizedSkills": [
+                  "KS1208P6ZMZ4N872Y7X5",
+                  "KSFFZBDYXH5XA5QE4E7I",
+                  "KS1214R5XG4X4PY7LGY6",
+                  "KS1219N6Z3XQ19V0HSKR",
+                  "KS1219W70LY1GXZDSKW5",
+                  "KS121F45VPV8C9W3QFYH",
+                  "KSZX2KSAAHPJBCLO1HFE",
+                  "KS122QR67M3DQDNP937T",
+                  "KS1227H6H5Q5Q3T2NQR5",
+                  "KS1232D6PH6SBVWWPQWC",
+                  "KSY4WFI1S164RQUBSPCC",
+                  "KSEJ9O7MDIF29LQKLT2F",
+                  "KSQ4V3A6FGYT0MLOOUEX",
+                  "KSFXRX8RU2T0RXA7QPHJ",
+                  "KS124CH623PFBJS8T5KM",
+                  "KS1200578T5QCYT0Z98G",
+                  "KS124R369VRR6LYPTKXK",
+                  "KSJLPQMW0YRWJSWO4NFL",
+                  "KS120076FGP5WGWYMP0F",
+                  "KS1200771D9CR9LB4MWW",
+                  "KS8Q1AFYYGNWP3DV7MC7",
+                  "KS126JR6F5V2TRCLB1H5",
+                  "KS126PF6PJY1N0ZX5R0P",
+                  "KS126QY605N7YVHFYCTW",
+                  "KS3VPP4UXQNR673OV5C7",
+                  "KS127296VDYS7ZFWVC46",
+                  "KS1200C5XQWW78VQ5ZYL",
+                  "KSZUL40VYT2KEP9E6YPH",
+                  "KS125LS6N7WP4S6SFTCK",
+                  "KSQOOX1S2DYD0E1VVZ5X",
+                  "KS9E9SUSTX6U1ESK796U",
+                  "KSHAT7C41615LE1RC2U1",
+                  "KS8J4ATW5ATG3ZUTGVQ5",
+                  "KS441LF7187KS0CV4B6Y"
+                ]
+              },
+              {
+                "Name": "Web Professionals",
+                "Id": "77",
+                "Percent": 27,
+                "NormalizedSkills": [
+                  "KS1208P6ZMZ4N872Y7X5",
+                  "KSFFZBDYXH5XA5QE4E7I",
+                  "KS1214R5XG4X4PY7LGY6",
+                  "KS121F45VPV8C9W3QFYH",
+                  "KSZX2KSAAHPJBCLO1HFE",
+                  "KS1232D6PH6SBVWWPQWC",
+                  "KSY4WFI1S164RQUBSPCC",
+                  "KSNQCEX0FGMCVVVXQ0MD",
+                  "KSEJ9O7MDIF29LQKLT2F",
+                  "KSQ4V3A6FGYT0MLOOUEX",
+                  "KSFXRX8RU2T0RXA7QPHJ",
+                  "KS124CH623PFBJS8T5KM",
+                  "KS1200578T5QCYT0Z98G",
+                  "KS124R369VRR6LYPTKXK",
+                  "KS1200771D9CR9LB4MWW",
+                  "KS8Q1AFYYGNWP3DV7MC7",
+                  "KS126PF6PJY1N0ZX5R0P",
+                  "KS126QY605N7YVHFYCTW",
+                  "KS3VPP4UXQNR673OV5C7",
+                  "KS127296VDYS7ZFWVC46",
+                  "KS1200C5XQWW78VQ5ZYL",
+                  "KSQOOX1S2DYD0E1VVZ5X",
+                  "KS9E9SUSTX6U1ESK796U",
+                  "KSHAT7C41615LE1RC2U1",
+                  "KS8J4ATW5ATG3ZUTGVQ5",
+                  "KS441LF7187KS0CV4B6Y"
+                ]
+              },
+              {
+                "Name": "System Developers and Analysts",
+                "Id": "86",
+                "Percent": 7,
+                "NormalizedSkills": [
+                  "KS1219W70LY1GXZDSKW5",
+                  "KSZX2KSAAHPJBCLO1HFE",
+                  "KS9IRHKOO7WVBIG35G80",
+                  "KS122PY6ZRDL0TD5GSH4",
+                  "KS122QR67M3DQDNP937T",
+                  "KS126JR6F5V2TRCLB1H5",
+                  "KS126PF6PJY1N0ZX5R0P",
+                  "KS126QY605N7YVHFYCTW",
+                  "KSZUL40VYT2KEP9E6YPH",
+                  "KS125LS6N7WP4S6SFTCK"
+                ]
+              },
+              {
+                "Name": "Database Specialists",
+                "Id": "79",
+                "Percent": 7,
+                "NormalizedSkills": [
+                  "KS9IRHKOO7WVBIG35G80",
+                  "KSDRW3VXX121JSHMDSJA",
+                  "KS122QR67M3DQDNP937T",
+                  "KS1227H6H5Q5Q3T2NQR5",
+                  "KS126JR6F5V2TRCLB1H5",
+                  "KS126PF6PJY1N0ZX5R0P",
+                  "KS126QY605N7YVHFYCTW",
+                  "KS125LS6N7WP4S6SFTCK"
+                ]
+              },
+              {
+                "Name": "IT Coordinators",
+                "Id": "81",
+                "Percent": 2,
+                "NormalizedSkills": [
+                  "KS3VPP4UXQNR673OV5C7",
+                  "KS127296VDYS7ZFWVC46",
+                  "KS441LF7187KS0CV4B6Y"
+                ]
+              },
+              {
+                "Name": "Consultants and Specialists",
+                "Id": "83",
+                "Percent": 1,
+                "NormalizedSkills": [
+                  "KS9IRHKOO7WVBIG35G80",
+                  "KS123KH77136Y0FWRNJY"
+                ]
+              },
+              {
+                "Name": "IT R&D Professionals",
+                "Id": "29",
+                "Percent": 0,
+                "NormalizedSkills": [
+                  "KS1219W70LY1GXZDSKW5",
+                  "KSZUL40VYT2KEP9E6YPH",
+                  "KS125LS6N7WP4S6SFTCK"
+                ]
+              },
+              {
+                "Name": "Information and Communication Technology (other)",
+                "Id": "291",
+                "Percent": 0,
+                "NormalizedSkills": [
+                  "KSY4WFI1S164RQUBSPCC",
+                  "KSFXRX8RU2T0RXA7QPHJ",
+                  "KS124CH623PFBJS8T5KM"
+                ]
+              },
+              {
+                "Name": "Support Staff",
+                "Id": "84",
+                "Percent": 0,
+                "NormalizedSkills": ["KSZX2KSAAHPJBCLO1HFE"]
+              }
+            ]
+          },
+          {
+            "Name": "Communication, Marketing and Public Relations",
+            "Id": "23",
+            "Percent": 7,
+            "Groups": [
+              {
+                "Name": "Communication, Marketing and Public Relations Managers",
+                "Id": "208",
+                "Percent": 7,
+                "NormalizedSkills": [
+                  "KS122BM7899YNC6504SP",
+                  "KS1238H659P08Z726BK8",
+                  "KS1208X6P4TZKZYJMTG8"
+                ]
+              },
+              {
+                "Name": "Marketing and Advertising Personnel",
+                "Id": "243",
+                "Percent": 0,
+                "NormalizedSkills": ["KS1208X6P4TZKZYJMTG8"]
+              }
+            ]
+          },
+          {
+            "Name": "Healthcare",
+            "Id": "6",
+            "Percent": 6,
+            "Groups": [
+              {
+                "Name": "Medical Assistants",
+                "Id": "47",
+                "Percent": 2,
+                "NormalizedSkills": ["KS127R26PVSGVL35D7L1"]
+              },
+              {
+                "Name": "Pharmacists and Pharmacologists",
+                "Id": "43",
+                "Percent": 2,
+                "NormalizedSkills": ["KS127R26PVSGVL35D7L1"]
+              },
+              {
+                "Name": "Carers",
+                "Id": "59",
+                "Percent": 1,
+                "NormalizedSkills": ["KS122BM7899YNC6504SP"]
+              },
+              {
+                "Name": "Specialists and Surgeons",
+                "Id": "56",
+                "Percent": 1,
+                "NormalizedSkills": ["KS1225V6Y8RC3F5RJY8P"]
+              },
+              {
+                "Name": "Physicians",
+                "Id": "44",
+                "Percent": 1,
+                "NormalizedSkills": ["KS1225V6Y8RC3F5RJY8P"]
+              }
+            ]
+          },
+          {
+            "Name": "Arts, Culture and Media",
+            "Id": "10",
+            "Percent": 4,
+            "Groups": [
+              {
+                "Name": "Illustrators and Designers (2D)",
+                "Id": "98",
+                "Percent": 2,
+                "NormalizedSkills": [
+                  "KSNQCEX0FGMCVVVXQ0MD",
+                  "KS1225V6Y8RC3F5RJY8P"
+                ]
+              },
+              {
+                "Name": "Journalists and Editors",
+                "Id": "121",
+                "Percent": 1,
+                "NormalizedSkills": ["KS122BM7899YNC6504SP"]
+              },
+              {
+                "Name": "Arts, Culture and Media (other)",
+                "Id": "292",
+                "Percent": 0,
+                "NormalizedSkills": ["KSNQCEX0FGMCVVVXQ0MD"]
+              },
+              {
+                "Name": "Directors and Producers",
+                "Id": "122",
+                "Percent": 0,
+                "NormalizedSkills": ["KSNQCEX0FGMCVVVXQ0MD"]
+              },
+              {
+                "Name": "Illustrators and Designers (3D)",
+                "Id": "89",
+                "Percent": 0,
+                "NormalizedSkills": ["KSNQCEX0FGMCVVVXQ0MD"]
+              }
+            ]
+          },
+          {
+            "Name": "Insurance and Finance",
+            "Id": "24",
+            "Percent": 3,
+            "Groups": [
+              {
+                "Name": "Accountants",
+                "Id": "218",
+                "Percent": 3,
+                "NormalizedSkills": [
+                  "KS123KH77136Y0FWRNJY",
+                  "KSEP82V3PE2H1FUZP3HO"
+                ]
+              }
+            ]
+          },
+          {
+            "Name": "Procurement and Warehouse Management",
+            "Id": "22",
+            "Percent": 2,
+            "Groups": [
+              {
+                "Name": "Buyers",
+                "Id": "224",
+                "Percent": 2,
+                "NormalizedSkills": ["KS123KH77136Y0FWRNJY"]
+              },
+              {
+                "Name": "Warehouse Staff and Box Fillers",
+                "Id": "112",
+                "Percent": 0,
+                "NormalizedSkills": ["KSU4G0EHN98X8QVP3OU5"]
+              }
+            ]
+          },
+          {
+            "Name": "Management, Policy and Governance",
+            "Id": "2",
+            "Percent": 1,
+            "Groups": [
+              {
+                "Name": "Management Analysts and Consultants",
+                "Id": "225",
+                "Percent": 1,
+                "NormalizedSkills": ["KS9IRHKOO7WVBIG35G80"]
+              },
+              {
+                "Name": "Management, Policy and Governance (other)",
+                "Id": "284",
+                "Percent": 0,
+                "NormalizedSkills": ["KSU4G0EHN98X8QVP3OU5"]
+              }
+            ]
+          },
+          {
+            "Name": "Administration and Customer Service",
+            "Id": "1",
+            "Percent": 1,
+            "Groups": [
+              {
+                "Name": "Financial-administrative Personnel",
+                "Id": "1",
+                "Percent": 1,
+                "NormalizedSkills": ["KSEP82V3PE2H1FUZP3HO"]
+              }
+            ]
+          },
+          {
+            "Name": "Engineering",
+            "Id": "5",
+            "Percent": 1,
+            "Groups": [
+              {
+                "Name": "Electrical Engineers, Designers, and Technicians",
+                "Id": "260",
+                "Percent": 1,
+                "NormalizedSkills": ["KS124R369VRR6LYPTKXK"]
+              }
+            ]
+          },
+          {
+            "Name": "Transport and Traffic",
+            "Id": "12",
+            "Percent": 1,
+            "Groups": [
+              {
+                "Name": "Freight Drivers",
+                "Id": "107",
+                "Percent": 1,
+                "NormalizedSkills": ["KS1249K6TSSZ13YPLR48"]
+              }
+            ]
+          },
+          {
+            "Name": "Production",
+            "Id": "18",
+            "Percent": 0,
+            "Groups": [
+              {
+                "Name": "Production Supervisors",
+                "Id": "264",
+                "Percent": 0,
+                "NormalizedSkills": ["KSU4G0EHN98X8QVP3OU5"]
+              },
+              {
+                "Name": "Production Managers",
+                "Id": "170",
+                "Percent": 0,
+                "NormalizedSkills": ["KSU4G0EHN98X8QVP3OU5"]
+              }
+            ]
+          },
+          {
+            "Name": "Police, Fire Department and Security",
+            "Id": "17",
+            "Percent": 0,
+            "Groups": [
+              {
+                "Name": "Safety and Security Personnel",
+                "Id": "167",
+                "Percent": 0,
+                "NormalizedSkills": ["KSU4G0EHN98X8QVP3OU5"]
+              }
+            ]
+          },
+          {
+            "Name": "Installation, Repair and Maintenance",
+            "Id": "8",
+            "Percent": 0,
+            "Groups": [
+              {
+                "Name": "Industrial Machinery Mechanics",
+                "Id": "69",
+                "Percent": 0,
+                "NormalizedSkills": ["KSU4G0EHN98X8QVP3OU5"]
+              }
+            ]
+          },
+          {
+            "Name": "Legal, Human Resources and Social Services",
+            "Id": "19",
+            "Percent": 0,
+            "Groups": [
+              {
+                "Name": "Occupational Health Experts and Inspectors",
+                "Id": "51",
+                "Percent": 0,
+                "NormalizedSkills": ["KSU4G0EHN98X8QVP3OU5"]
+              }
+            ]
+          }
+        ]
+      },
+      "LanguageCompetencies": [
+        {
+          "Language": "English",
+          "LanguageCode": "en",
+          "FoundInContext": "[RESUME_LANGUAGE]"
+        }
+      ],
+      "QualificationsSummary": "Skills\nProgramming Languages: JavaScript, TypeScript, Python, Minor - Java, PHP, C#/C/C++\nFrontend: React, Redux, Tailwind CSS, Bootstrap, Sass, HTML, CSS, JavaScript\nBackend: Node, Express\nDatabases: MongoDB, Firebase, Minor- MySQL, MSSQL\nTools: Git, Github, Lerna, Insomnia, Docker",
+      "ResumeMetadata": {
+        "FoundSections": [
+          {
+            "FirstLineNumber": 3,
+            "LastLineNumber": 9,
+            "SectionType": "SKILLS",
+            "HeaderTextFound": "Skills"
+          },
+          {
+            "FirstLineNumber": 10,
+            "LastLineNumber": 31,
+            "SectionType": "WORK HISTORY",
+            "HeaderTextFound": "Experience"
+          },
+          {
+            "FirstLineNumber": 32,
+            "LastLineNumber": 35,
+            "SectionType": "EDUCATION",
+            "HeaderTextFound": "Education"
+          },
+          {
+            "FirstLineNumber": 36,
+            "LastLineNumber": 53,
+            "SectionType": "PROJECT_HEADERS",
+            "HeaderTextFound": "Projects"
+          }
+        ],
+        "ResumeQuality": [
+          {
+            "Level": "Major Issues Found",
+            "Findings": [
+              {
+                "QualityCode": "300",
+                "Message": "You should not use the PDF format for your resume. Due to inherent limitations with text extraction from PDFs, you are less likely to get a job when using a PDF resume."
+              }
+            ]
+          },
+          {
+            "Level": "Data Missing",
+            "Findings": [
+              {
+                "QualityCode": "213",
+                "Message": "A street level address was not found in the contact information. A full contact address should always be included in a resume as it allows for location based searches."
+              }
+            ]
+          },
+          {
+            "Level": "Suggested Improvements",
+            "Findings": [
+              {
+                "QualityCode": "112",
+                "Message": "The following section was identified as a skills section type: 'Skills'. Skills should not be in a separate section, but instead, each skill should be included in the descriptions of work history or education. THIS IS INCREDIBLY IMPORTANT FOR AI MATCHING ALGORITHMS"
+              }
+            ]
+          }
+        ],
+        "PlainText": "   ~~~~~~~~  \n?     ~~~~~~~~~  \t?     ~~~~~~~~~~~~~~  \t?     ~~~~~~~~~~~~~~~~~~~  \t?    ~~~~~~~~~~~~~~~~~~~~  \n\nSkills\nProgramming Languages: JavaScript, TypeScript, Python, Minor - Java, PHP, C#/C/C++\nFrontend: React, Redux, Tailwind CSS, Bootstrap, Sass, HTML, CSS, JavaScript\nBackend: Node, Express\nDatabases: MongoDB, Firebase, Minor- MySQL, MSSQL\nTools: Git, Github, Lerna, Insomnia, Docker\n\nExperience\nMERN Developer\t| Freelance\tRemote  | July 2023 - Present\nClassified Ads\n•   Converted a provided template for a web and admin application into dynamic and interactive React applications,\nseamlessly integrating APIs with TanStack Query to enhance functionality and data retrieval.\n•   Incorporated a credits system, geolocation integration, and search functionality. Added necessary new Models and\nHTTP functions to the project's Django backend with the assistance of ChatGPT.\n•   Improved and enhanced search functions by implementing TrigramSimilarity on the backend.\nMERN Intern + Developer\t | NeonFlake\tRemote | August 2022 - July 2023\nEcommerce Stores\n•   Developed a user-friendly Ecom/ERP dashboard in React, created scalable APIs in the Node backend, and\nseamlessly integrated them with the frontend.\n•   Integrated various third-party APIs, including Cloudinary for media storage, Razorpay for payment processing,\nSendInBlue for email services, and Google Recaptcha for spam protection, among others.\n•   Significantly enhanced backend-to-database performance, optimizing database queries by 5 times. Implemented\nadvanced querying techniques such as aggregate, session transaction, and insert/updateMany to achieve this\nimprovement.\nPharmaceutical website\n•   Created an accessible, responsive, and interactive user interface from Figma using React, Bootstrap, and CSS.\n•   Developed an admin panel and Node backend to manage content, links, images, and logos, and connected it to the\nfrontend UI.\n\nEducation\nDevgad College, Devgad - Mumbai University\tJune 2021\nBachelor of Science in Information Technology\tCGPA: 9.3/10.0\n\nProjects\nRemote OK Clone (UI)\t| NEXT.JS, TYPESCRIPT, TAILWIND CSS\t| ? Link ?  Code\n•   Developed a UI clone of the Remote OK website using Next.js 13 (App Route), TypeScript, and Tailwind CSS.\n•   The primary goal was to replicate a real-world product to gain in-depth knowledge of its structure. During the\nproject, I learned about routing and type safety in Next.js, as well as Tailwind CSS and its configuration.\n•   Currently working on backend API implementation for enhanced functionality.\nForm Builder\t| MERN, LERNA, TAILWIND CSS\t| ? Link  ? Code\n•   Developed a form-builder application using the MERN stack and maintained it in a mono repo using Lerna.\n•   Users can perform CRUD operations on forms and obtain a public link. The application incorporates a points\nsystem, and all responses are stored and viewable in the admin dashboard.\n•   Implemented three types of questions - categorize, cloze, and comprehension - with drag-and-drop components.\n\nChatRoom\t| MERN,    ~~~~  , BOOTSTRAP\t| ? Link  ?  Code\n•   Developed a real-time chat application using the MERN stack and Socket.IO.\n•   The application features a sidebar that displays new messages in conversations that the user is not currently\nviewing, a chat section that displays a sorted list of messages, and a textarea for users to enter messages.\n•   Implemented Socket.IO to enable real-time messaging between users, gaining valuable experience with this\ntechnology during the development process.",
+        "DocumentLanguage": "en",
+        "DocumentCulture": "en-IN",
+        "ParserSettings": "Coverage.PersonalAttributes = True; Coverage.Training = True; Culture.CountryCodeForUnitedKingdomIsUK = True; Culture.DefaultCountryCode = IN; Culture.DefaultCultureIsIndia = True; Culture.Language = English; Culture.PreferEnglishVersionIfTwoLanguagesInDocument = False; Data.NormalizeSkills = True; Data.UserDefinedParsing = False; Data.UseV2SkillsTaxonomy = True; OutputFormat.AssumeCompanyNameFromPrecedingJob = False; OutputFormat.ContactMethod.PackStyle = Split; OutputFormat.DateOutputStyle = ExplicitlyKnownDateInfoOnly; OutputFormat.NestJobsBasedOnDateRanges = True; OutputFormat.NormalizeRegions = False; OutputFormat.SimpleCustomLinkedIn = False; OutputFormat.SkillsStyle = Default; OutputFormat.StripParsedDataFromPositionHistoryDescription = True; OutputFormat.TelcomNumber.Style = Raw; OutputFormat.XmlFormat = HrXmlResume25",
+        "DocumentLastModified": "2023-11-23"
+      }
+    },
+    "ConversionMetadata": {
+      "DetectedType": "Pdf",
+      "SuggestedFileExtension": "pdf",
+      "OutputValidityCode": "ovIsProbablyValid",
+      "ElapsedMilliseconds": 146,
+      "DocumentHash": "B14F7C6C8B9D78E6F9A385CD57F7A24D"
+    },
+    "ParsingMetadata": {
+      "ElapsedMilliseconds": 210,
+      "TimedOut": false
+    }
+  }
+}
